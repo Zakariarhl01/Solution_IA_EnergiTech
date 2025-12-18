@@ -1,0 +1,19 @@
+# COMMANDE : pip install -r requirements.txt
+
+# INTERFACE
+streamlit==1.26.0     # Framework pour le cockpit interactif
+plotly==5.16.0        # Graphiques dynamiques
+
+# IA & DATA
+pandas==2.1.0         # Manipulation des données (12 To)
+numpy==1.26.0         # Calculs numériques
+scikit-learn==1.3.0   # Inférence des modèles
+joblib==1.3.2         # Chargement des fichiers .pkl
+
+# CI/CD & TESTS
+pytest==7.4.0         # Tests automatisés
+streamlit-testing==0.1.1 # Tests de l'interface
+
+# MLOPS & MONITORING
+prometheus-client==0.17.1 # Métriques de performance
+python-json-logger==2.0.7 # Logs formatés pour la supervision
