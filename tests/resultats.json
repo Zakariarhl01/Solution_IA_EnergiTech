@@ -1,902 +1,722 @@
 [
     {
-        "turbine_id":36,
-        "Risque":"MOD\u00c9R\u00c9",
-        "RUL":12.1,
-        "Vibration":0.76,
-        "Temp":86.5,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":28,
-        "Risque":"MOD\u00c9R\u00c9",
-        "RUL":13.8,
-        "Vibration":3.03,
-        "Temp":72.7,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":46,
-        "Risque":"MOD\u00c9R\u00c9",
-        "RUL":14.7,
-        "Vibration":5.7,
-        "Temp":56.7,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":33,
-        "Risque":"MOD\u00c9R\u00c9",
-        "RUL":12.6,
-        "Vibration":3.66,
-        "Temp":74.6,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":26,
-        "Risque":"MOD\u00c9R\u00c9",
-        "RUL":10.7,
-        "Vibration":4.28,
-        "Temp":75.3,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":43,
-        "Risque":"FAIBLE",
-        "RUL":29.3,
-        "Vibration":4.59,
-        "Temp":44.0,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":9,
-        "Risque":"FAIBLE",
-        "RUL":25.6,
-        "Vibration":6.23,
-        "Temp":37.3,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":26,
-        "Risque":"FAIBLE",
-        "RUL":34.4,
-        "Vibration":3.12,
-        "Temp":46.3,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":44,
-        "Risque":"FAIBLE",
-        "RUL":50.1,
-        "Vibration":1.45,
-        "Temp":27.8,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":1,
-        "Risque":"FAIBLE",
-        "RUL":20.3,
-        "Vibration":5.68,
-        "Temp":52.1,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":9,
-        "Risque":"FAIBLE",
-        "RUL":58.8,
-        "Vibration":0.28,
-        "Temp":33.7,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":1,
-        "Risque":"FAIBLE",
-        "RUL":25.5,
-        "Vibration":6.44,
-        "Temp":50.0,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":27,
-        "Risque":"FAIBLE",
-        "RUL":18.7,
-        "Vibration":3.66,
-        "Temp":60.0,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":19,
-        "Risque":"FAIBLE",
-        "RUL":33.0,
-        "Vibration":2.63,
-        "Temp":47.4,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":19,
-        "Risque":"FAIBLE",
-        "RUL":29.4,
-        "Vibration":5.96,
-        "Temp":20.7,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":19,
-        "Risque":"FAIBLE",
-        "RUL":38.0,
-        "Vibration":3.61,
-        "Temp":40.4,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":27,
-        "Risque":"FAIBLE",
-        "RUL":26.7,
-        "Vibration":5.75,
-        "Temp":38.2,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":2,
-        "Risque":"FAIBLE",
-        "RUL":54.8,
-        "Vibration":0.23,
-        "Temp":37.0,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":36,
-        "Risque":"FAIBLE",
-        "RUL":29.8,
-        "Vibration":2.74,
-        "Temp":60.5,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":27,
-        "Risque":"FAIBLE",
-        "RUL":45.4,
-        "Vibration":2.73,
-        "Temp":38.4,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":36,
-        "Risque":"FAIBLE",
-        "RUL":46.1,
-        "Vibration":0.17,
-        "Temp":53.1,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":45,
-        "Risque":"FAIBLE",
-        "RUL":16.4,
-        "Vibration":2.28,
-        "Temp":73.2,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":19,
-        "Risque":"FAIBLE",
-        "RUL":28.9,
-        "Vibration":4.06,
-        "Temp":43.4,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":2,
-        "Risque":"FAIBLE",
-        "RUL":30.5,
-        "Vibration":2.63,
-        "Temp":58.2,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":11,
-        "Risque":"FAIBLE",
-        "RUL":30.0,
-        "Vibration":2.31,
-        "Temp":56.0,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":45,
-        "Risque":"FAIBLE",
-        "RUL":32.5,
-        "Vibration":2.81,
-        "Temp":52.6,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":37,
-        "Risque":"FAIBLE",
-        "RUL":54.1,
-        "Vibration":0.15,
-        "Temp":45.5,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":37,
-        "Risque":"FAIBLE",
-        "RUL":42.6,
-        "Vibration":0.23,
-        "Temp":55.3,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":37,
-        "Risque":"FAIBLE",
-        "RUL":46.1,
-        "Vibration":1.82,
-        "Temp":42.7,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":3,
-        "Risque":"FAIBLE",
-        "RUL":22.2,
-        "Vibration":5.9,
-        "Temp":49.6,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":28,
-        "Risque":"FAIBLE",
-        "RUL":50.3,
-        "Vibration":0.0,
-        "Temp":48.0,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":28,
-        "Risque":"FAIBLE",
-        "RUL":20.8,
-        "Vibration":1.75,
-        "Temp":75.3,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":12,
-        "Risque":"FAIBLE",
-        "RUL":45.2,
-        "Vibration":2.26,
-        "Temp":16.4,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":37,
-        "Risque":"FAIBLE",
-        "RUL":22.4,
-        "Vibration":3.84,
-        "Temp":60.9,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":29,
-        "Risque":"FAIBLE",
-        "RUL":43.9,
-        "Vibration":0.08,
-        "Temp":55.7,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":12,
-        "Risque":"FAIBLE",
-        "RUL":28.0,
-        "Vibration":4.19,
-        "Temp":46.8,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":38,
-        "Risque":"FAIBLE",
-        "RUL":56.5,
-        "Vibration":0.0,
-        "Temp":41.6,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":47,
-        "Risque":"FAIBLE",
-        "RUL":44.7,
-        "Vibration":2.37,
-        "Temp":15.6,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":29,
-        "Risque":"FAIBLE",
-        "RUL":31.1,
-        "Vibration":5.66,
-        "Temp":29.7,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":47,
-        "Risque":"FAIBLE",
-        "RUL":45.9,
-        "Vibration":2.13,
-        "Temp":14.2,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":13,
-        "Risque":"FAIBLE",
-        "RUL":15.5,
-        "Vibration":2.82,
-        "Temp":73.6,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":22,
-        "Risque":"FAIBLE",
-        "RUL":15.8,
-        "Vibration":2.52,
-        "Temp":76.3,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":5,
-        "Risque":"FAIBLE",
-        "RUL":39.3,
-        "Vibration":2.68,
-        "Temp":35.1,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":5,
-        "Risque":"FAIBLE",
-        "RUL":57.3,
-        "Vibration":0.0,
-        "Temp":37.7,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":22,
-        "Risque":"FAIBLE",
-        "RUL":39.1,
-        "Vibration":3.6,
-        "Temp":14.7,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":5,
-        "Risque":"FAIBLE",
-        "RUL":41.3,
-        "Vibration":1.98,
-        "Temp":48.3,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":48,
-        "Risque":"FAIBLE",
-        "RUL":32.1,
-        "Vibration":4.68,
-        "Temp":36.8,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":31,
-        "Risque":"FAIBLE",
-        "RUL":46.3,
-        "Vibration":2.46,
-        "Temp":39.1,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":6,
-        "Risque":"FAIBLE",
-        "RUL":47.4,
-        "Vibration":1.67,
-        "Temp":46.0,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":14,
-        "Risque":"FAIBLE",
-        "RUL":18.6,
-        "Vibration":6.06,
-        "Temp":52.8,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":23,
-        "Risque":"FAIBLE",
-        "RUL":26.6,
-        "Vibration":5.7,
-        "Temp":50.3,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":31,
-        "Risque":"FAIBLE",
-        "RUL":36.1,
-        "Vibration":2.77,
-        "Temp":45.9,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":31,
-        "Risque":"FAIBLE",
-        "RUL":26.2,
-        "Vibration":4.15,
-        "Temp":50.9,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":6,
-        "Risque":"FAIBLE",
-        "RUL":39.8,
-        "Vibration":2.35,
-        "Temp":43.3,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":15,
-        "Risque":"FAIBLE",
-        "RUL":42.1,
-        "Vibration":2.43,
-        "Temp":30.4,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":32,
-        "Risque":"FAIBLE",
-        "RUL":44.9,
-        "Vibration":0.28,
-        "Temp":50.5,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":41,
-        "Risque":"FAIBLE",
-        "RUL":46.1,
-        "Vibration":2.21,
-        "Temp":16.2,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":7,
-        "Risque":"FAIBLE",
-        "RUL":25.4,
-        "Vibration":5.73,
-        "Temp":37.4,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":7,
-        "Risque":"FAIBLE",
-        "RUL":41.7,
-        "Vibration":2.9,
-        "Temp":14.8,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":49,
-        "Risque":"FAIBLE",
-        "RUL":41.6,
-        "Vibration":1.69,
-        "Temp":52.9,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":7,
-        "Risque":"FAIBLE",
-        "RUL":32.6,
-        "Vibration":4.33,
-        "Temp":32.5,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":50,
-        "Risque":"FAIBLE",
-        "RUL":24.9,
-        "Vibration":6.12,
-        "Temp":36.1,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":50,
-        "Risque":"FAIBLE",
-        "RUL":37.9,
-        "Vibration":3.22,
-        "Temp":51.8,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":16,
-        "Risque":"FAIBLE",
-        "RUL":55.0,
-        "Vibration":0.0,
-        "Temp":37.1,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":7,
-        "Risque":"FAIBLE",
-        "RUL":44.1,
-        "Vibration":2.2,
-        "Temp":18.0,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":25,
-        "Risque":"FAIBLE",
-        "RUL":53.0,
-        "Vibration":0.1,
-        "Temp":45.0,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":43,
-        "Risque":"FAIBLE",
-        "RUL":27.5,
-        "Vibration":3.3,
-        "Temp":55.3,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":34,
-        "Risque":"FAIBLE",
-        "RUL":57.4,
-        "Vibration":0.0,
-        "Temp":21.8,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":17,
-        "Risque":"FAIBLE",
-        "RUL":30.0,
-        "Vibration":4.99,
-        "Temp":14.7,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":8,
-        "Risque":"FAIBLE",
-        "RUL":31.3,
-        "Vibration":4.8,
-        "Temp":34.9,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":26,
-        "Risque":"FAIBLE",
-        "RUL":56.8,
-        "Vibration":0.25,
-        "Temp":34.5,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":17,
-        "Risque":"FAIBLE",
-        "RUL":19.5,
-        "Vibration":1.29,
-        "Temp":74.2,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":43,
-        "Risque":"FAIBLE",
-        "RUL":45.7,
-        "Vibration":2.18,
-        "Temp":41.6,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":26,
-        "Risque":"FAIBLE",
-        "RUL":42.3,
-        "Vibration":2.05,
-        "Temp":46.2,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":35,
-        "Risque":"FAIBLE",
-        "RUL":37.2,
-        "Vibration":3.55,
-        "Temp":42.0,
-        "maintenance_done":0,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":46,
-        "Risque":"CRITIQUE",
-        "RUL":1.6,
-        "Vibration":4.74,
-        "Temp":71.8,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":1
-    },
-    {
-        "turbine_id":22,
-        "Risque":"CRITIQUE",
-        "RUL":1.4,
-        "Vibration":5.83,
-        "Temp":64.5,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":1
-    },
-    {
-        "turbine_id":40,
-        "Risque":"CRITIQUE",
-        "RUL":2.0,
-        "Vibration":4.58,
-        "Temp":77.0,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":1
-    },
-    {
-        "turbine_id":13,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":12.3,
-        "Vibration":7.03,
-        "Temp":41.3,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":1
-    },
-    {
-        "turbine_id":22,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":3.2,
-        "Vibration":3.53,
-        "Temp":73.3,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":45,
-        "Risque":"MOD\u00c9R\u00c9",
-        "RUL":8.9,
-        "Vibration":3.43,
-        "Temp":57.7,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":11,
-        "Risque":"MOD\u00c9R\u00c9",
-        "RUL":13.3,
-        "Vibration":5.8,
-        "Temp":40.9,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":12,
-        "Risque":"MOD\u00c9R\u00c9",
-        "RUL":11.3,
-        "Vibration":6.05,
-        "Temp":39.3,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":1,
-        "Risque":"FAIBLE",
-        "RUL":28.0,
-        "Vibration":2.25,
-        "Temp":30.6,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":39,
-        "Risque":"FAIBLE",
-        "RUL":20.2,
-        "Vibration":1.78,
-        "Temp":55.9,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":41,
-        "Risque":"FAIBLE",
-        "RUL":32.7,
-        "Vibration":2.87,
-        "Temp":13.8,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":24,
-        "Risque":"FAIBLE",
-        "RUL":34.6,
-        "Vibration":1.16,
-        "Temp":16.3,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":42,
-        "Risque":"FAIBLE",
-        "RUL":25.7,
-        "Vibration":3.45,
-        "Temp":15.3,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":34,
-        "Risque":"FAIBLE",
-        "RUL":43.8,
-        "Vibration":0.0,
-        "Temp":36.7,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
-    },
-    {
-        "turbine_id":35,
-        "Risque":"FAIBLE",
-        "RUL":27.0,
-        "Vibration":2.73,
-        "Temp":42.2,
-        "maintenance_done":1,
-        "Statut":"\u26a0\ufe0f Anomalie",
-        "proba_panne":0
+        "turbine_id": 43,
+        "Risque": "FAIBLE",
+        "RUL": 29.3,
+        "maintenance_done": 0,
+        "Vibration": 4.59,
+        "Temp": 44.0
+    },
+    {
+        "turbine_id": 9,
+        "Risque": "FAIBLE",
+        "RUL": 25.6,
+        "maintenance_done": 0,
+        "Vibration": 6.23,
+        "Temp": 37.3
+    },
+    {
+        "turbine_id": 26,
+        "Risque": "FAIBLE",
+        "RUL": 34.4,
+        "maintenance_done": 0,
+        "Vibration": 3.12,
+        "Temp": 46.3
+    },
+    {
+        "turbine_id": 44,
+        "Risque": "FAIBLE",
+        "RUL": 50.1,
+        "maintenance_done": 0,
+        "Vibration": 1.45,
+        "Temp": 27.8
+    },
+    {
+        "turbine_id": 1,
+        "Risque": "FAIBLE",
+        "RUL": 20.3,
+        "maintenance_done": 0,
+        "Vibration": 5.68,
+        "Temp": 52.1
+    },
+    {
+        "turbine_id": 9,
+        "Risque": "FAIBLE",
+        "RUL": 58.8,
+        "maintenance_done": 0,
+        "Vibration": 0.28,
+        "Temp": 33.7
+    },
+    {
+        "turbine_id": 1,
+        "Risque": "FAIBLE",
+        "RUL": 25.5,
+        "maintenance_done": 0,
+        "Vibration": 6.44,
+        "Temp": 50.0
+    },
+    {
+        "turbine_id": 27,
+        "Risque": "FAIBLE",
+        "RUL": 18.7,
+        "maintenance_done": 0,
+        "Vibration": 3.66,
+        "Temp": 60.0
+    },
+    {
+        "turbine_id": 19,
+        "Risque": "FAIBLE",
+        "RUL": 33.0,
+        "maintenance_done": 0,
+        "Vibration": 2.63,
+        "Temp": 47.4
+    },
+    {
+        "turbine_id": 1,
+        "Risque": "FAIBLE",
+        "RUL": 28.0,
+        "maintenance_done": 1,
+        "Vibration": 2.25,
+        "Temp": 30.6
+    },
+    {
+        "turbine_id": 19,
+        "Risque": "FAIBLE",
+        "RUL": 29.4,
+        "maintenance_done": 0,
+        "Vibration": 5.96,
+        "Temp": 20.7
+    },
+    {
+        "turbine_id": 19,
+        "Risque": "FAIBLE",
+        "RUL": 38.0,
+        "maintenance_done": 0,
+        "Vibration": 3.61,
+        "Temp": 40.4
+    },
+    {
+        "turbine_id": 27,
+        "Risque": "FAIBLE",
+        "RUL": 26.7,
+        "maintenance_done": 0,
+        "Vibration": 5.75,
+        "Temp": 38.2
+    },
+    {
+        "turbine_id": 2,
+        "Risque": "FAIBLE",
+        "RUL": 54.8,
+        "maintenance_done": 0,
+        "Vibration": 0.23,
+        "Temp": 37.0
+    },
+    {
+        "turbine_id": 36,
+        "Risque": "FAIBLE",
+        "RUL": 29.8,
+        "maintenance_done": 0,
+        "Vibration": 2.74,
+        "Temp": 60.5
+    },
+    {
+        "turbine_id": 27,
+        "Risque": "FAIBLE",
+        "RUL": 45.4,
+        "maintenance_done": 0,
+        "Vibration": 2.73,
+        "Temp": 38.4
+    },
+    {
+        "turbine_id": 36,
+        "Risque": "FAIBLE",
+        "RUL": 46.1,
+        "maintenance_done": 0,
+        "Vibration": 0.17,
+        "Temp": 53.1
+    },
+    {
+        "turbine_id": 36,
+        "Risque": "MOD\u00c9R\u00c9",
+        "RUL": 12.1,
+        "maintenance_done": 0,
+        "Vibration": 0.76,
+        "Temp": 86.5
+    },
+    {
+        "turbine_id": 45,
+        "Risque": "FAIBLE",
+        "RUL": 16.4,
+        "maintenance_done": 0,
+        "Vibration": 2.28,
+        "Temp": 73.2
+    },
+    {
+        "turbine_id": 19,
+        "Risque": "FAIBLE",
+        "RUL": 28.9,
+        "maintenance_done": 0,
+        "Vibration": 4.06,
+        "Temp": 43.4
+    },
+    {
+        "turbine_id": 2,
+        "Risque": "FAIBLE",
+        "RUL": 30.5,
+        "maintenance_done": 0,
+        "Vibration": 2.63,
+        "Temp": 58.2
+    },
+    {
+        "turbine_id": 45,
+        "Risque": "MOD\u00c9R\u00c9",
+        "RUL": 8.9,
+        "maintenance_done": 1,
+        "Vibration": 3.43,
+        "Temp": 57.7
+    },
+    {
+        "turbine_id": 11,
+        "Risque": "MOD\u00c9R\u00c9",
+        "RUL": 13.3,
+        "maintenance_done": 1,
+        "Vibration": 5.8,
+        "Temp": 40.9
+    },
+    {
+        "turbine_id": 11,
+        "Risque": "FAIBLE",
+        "RUL": 30.0,
+        "maintenance_done": 0,
+        "Vibration": 2.31,
+        "Temp": 56.0
+    },
+    {
+        "turbine_id": 45,
+        "Risque": "FAIBLE",
+        "RUL": 32.5,
+        "maintenance_done": 0,
+        "Vibration": 2.81,
+        "Temp": 52.6
+    },
+    {
+        "turbine_id": 37,
+        "Risque": "FAIBLE",
+        "RUL": 54.1,
+        "maintenance_done": 0,
+        "Vibration": 0.15,
+        "Temp": 45.5
+    },
+    {
+        "turbine_id": 37,
+        "Risque": "FAIBLE",
+        "RUL": 42.6,
+        "maintenance_done": 0,
+        "Vibration": 0.23,
+        "Temp": 55.3
+    },
+    {
+        "turbine_id": 37,
+        "Risque": "FAIBLE",
+        "RUL": 46.1,
+        "maintenance_done": 0,
+        "Vibration": 1.82,
+        "Temp": 42.7
+    },
+    {
+        "turbine_id": 28,
+        "Risque": "MOD\u00c9R\u00c9",
+        "RUL": 13.8,
+        "maintenance_done": 0,
+        "Vibration": 3.03,
+        "Temp": 72.7
+    },
+    {
+        "turbine_id": 3,
+        "Risque": "FAIBLE",
+        "RUL": 22.2,
+        "maintenance_done": 0,
+        "Vibration": 5.9,
+        "Temp": 49.6
+    },
+    {
+        "turbine_id": 28,
+        "Risque": "FAIBLE",
+        "RUL": 50.3,
+        "maintenance_done": 0,
+        "Vibration": 0.0,
+        "Temp": 48.0
+    },
+    {
+        "turbine_id": 28,
+        "Risque": "FAIBLE",
+        "RUL": 20.8,
+        "maintenance_done": 0,
+        "Vibration": 1.75,
+        "Temp": 75.3
+    },
+    {
+        "turbine_id": 46,
+        "Risque": "CRITIQUE",
+        "RUL": 1.6,
+        "maintenance_done": 1,
+        "Vibration": 4.74,
+        "Temp": 71.8
+    },
+    {
+        "turbine_id": 46,
+        "Risque": "MOD\u00c9R\u00c9",
+        "RUL": 14.7,
+        "maintenance_done": 0,
+        "Vibration": 5.7,
+        "Temp": 56.7
+    },
+    {
+        "turbine_id": 12,
+        "Risque": "FAIBLE",
+        "RUL": 45.2,
+        "maintenance_done": 0,
+        "Vibration": 2.26,
+        "Temp": 16.4
+    },
+    {
+        "turbine_id": 37,
+        "Risque": "FAIBLE",
+        "RUL": 22.4,
+        "maintenance_done": 0,
+        "Vibration": 3.84,
+        "Temp": 60.9
+    },
+    {
+        "turbine_id": 29,
+        "Risque": "FAIBLE",
+        "RUL": 43.9,
+        "maintenance_done": 0,
+        "Vibration": 0.08,
+        "Temp": 55.7
+    },
+    {
+        "turbine_id": 12,
+        "Risque": "FAIBLE",
+        "RUL": 28.0,
+        "maintenance_done": 0,
+        "Vibration": 4.19,
+        "Temp": 46.8
+    },
+    {
+        "turbine_id": 38,
+        "Risque": "FAIBLE",
+        "RUL": 56.5,
+        "maintenance_done": 0,
+        "Vibration": 0.0,
+        "Temp": 41.6
+    },
+    {
+        "turbine_id": 47,
+        "Risque": "FAIBLE",
+        "RUL": 44.7,
+        "maintenance_done": 0,
+        "Vibration": 2.37,
+        "Temp": 15.6
+    },
+    {
+        "turbine_id": 12,
+        "Risque": "MOD\u00c9R\u00c9",
+        "RUL": 11.3,
+        "maintenance_done": 1,
+        "Vibration": 6.05,
+        "Temp": 39.3
+    },
+    {
+        "turbine_id": 29,
+        "Risque": "FAIBLE",
+        "RUL": 31.1,
+        "maintenance_done": 0,
+        "Vibration": 5.66,
+        "Temp": 29.7
+    },
+    {
+        "turbine_id": 47,
+        "Risque": "FAIBLE",
+        "RUL": 45.9,
+        "maintenance_done": 0,
+        "Vibration": 2.13,
+        "Temp": 14.2
+    },
+    {
+        "turbine_id": 13,
+        "Risque": "FAIBLE",
+        "RUL": 15.5,
+        "maintenance_done": 0,
+        "Vibration": 2.82,
+        "Temp": 73.6
+    },
+    {
+        "turbine_id": 13,
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 12.3,
+        "maintenance_done": 1,
+        "Vibration": 7.03,
+        "Temp": 41.3
+    },
+    {
+        "turbine_id": 39,
+        "Risque": "FAIBLE",
+        "RUL": 20.2,
+        "maintenance_done": 1,
+        "Vibration": 1.78,
+        "Temp": 55.9
+    },
+    {
+        "turbine_id": 22,
+        "Risque": "FAIBLE",
+        "RUL": 15.8,
+        "maintenance_done": 0,
+        "Vibration": 2.52,
+        "Temp": 76.3
+    },
+    {
+        "turbine_id": 22,
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 3.2,
+        "maintenance_done": 1,
+        "Vibration": 3.53,
+        "Temp": 73.3
+    },
+    {
+        "turbine_id": 5,
+        "Risque": "FAIBLE",
+        "RUL": 39.3,
+        "maintenance_done": 0,
+        "Vibration": 2.68,
+        "Temp": 35.1
+    },
+    {
+        "turbine_id": 5,
+        "Risque": "FAIBLE",
+        "RUL": 57.3,
+        "maintenance_done": 0,
+        "Vibration": 0.0,
+        "Temp": 37.7
+    },
+    {
+        "turbine_id": 22,
+        "Risque": "FAIBLE",
+        "RUL": 39.1,
+        "maintenance_done": 0,
+        "Vibration": 3.6,
+        "Temp": 14.7
+    },
+    {
+        "turbine_id": 5,
+        "Risque": "FAIBLE",
+        "RUL": 41.3,
+        "maintenance_done": 0,
+        "Vibration": 1.98,
+        "Temp": 48.3
+    },
+    {
+        "turbine_id": 48,
+        "Risque": "FAIBLE",
+        "RUL": 32.1,
+        "maintenance_done": 0,
+        "Vibration": 4.68,
+        "Temp": 36.8
+    },
+    {
+        "turbine_id": 22,
+        "Risque": "CRITIQUE",
+        "RUL": 1.4,
+        "maintenance_done": 1,
+        "Vibration": 5.83,
+        "Temp": 64.5
+    },
+    {
+        "turbine_id": 31,
+        "Risque": "FAIBLE",
+        "RUL": 46.3,
+        "maintenance_done": 0,
+        "Vibration": 2.46,
+        "Temp": 39.1
+    },
+    {
+        "turbine_id": 6,
+        "Risque": "FAIBLE",
+        "RUL": 47.4,
+        "maintenance_done": 0,
+        "Vibration": 1.67,
+        "Temp": 46.0
+    },
+    {
+        "turbine_id": 14,
+        "Risque": "FAIBLE",
+        "RUL": 18.6,
+        "maintenance_done": 0,
+        "Vibration": 6.06,
+        "Temp": 52.8
+    },
+    {
+        "turbine_id": 23,
+        "Risque": "FAIBLE",
+        "RUL": 26.6,
+        "maintenance_done": 0,
+        "Vibration": 5.7,
+        "Temp": 50.3
+    },
+    {
+        "turbine_id": 31,
+        "Risque": "FAIBLE",
+        "RUL": 36.1,
+        "maintenance_done": 0,
+        "Vibration": 2.77,
+        "Temp": 45.9
+    },
+    {
+        "turbine_id": 31,
+        "Risque": "FAIBLE",
+        "RUL": 26.2,
+        "maintenance_done": 0,
+        "Vibration": 4.15,
+        "Temp": 50.9
+    },
+    {
+        "turbine_id": 6,
+        "Risque": "FAIBLE",
+        "RUL": 39.8,
+        "maintenance_done": 0,
+        "Vibration": 2.35,
+        "Temp": 43.3
+    },
+    {
+        "turbine_id": 40,
+        "Risque": "CRITIQUE",
+        "RUL": 2.0,
+        "maintenance_done": 1,
+        "Vibration": 4.58,
+        "Temp": 77.0
+    },
+    {
+        "turbine_id": 15,
+        "Risque": "FAIBLE",
+        "RUL": 42.1,
+        "maintenance_done": 0,
+        "Vibration": 2.43,
+        "Temp": 30.4
+    },
+    {
+        "turbine_id": 32,
+        "Risque": "FAIBLE",
+        "RUL": 44.9,
+        "maintenance_done": 0,
+        "Vibration": 0.28,
+        "Temp": 50.5
+    },
+    {
+        "turbine_id": 41,
+        "Risque": "FAIBLE",
+        "RUL": 46.1,
+        "maintenance_done": 0,
+        "Vibration": 2.21,
+        "Temp": 16.2
+    },
+    {
+        "turbine_id": 41,
+        "Risque": "FAIBLE",
+        "RUL": 32.7,
+        "maintenance_done": 1,
+        "Vibration": 2.87,
+        "Temp": 13.8
+    },
+    {
+        "turbine_id": 7,
+        "Risque": "FAIBLE",
+        "RUL": 25.4,
+        "maintenance_done": 0,
+        "Vibration": 5.73,
+        "Temp": 37.4
+    },
+    {
+        "turbine_id": 7,
+        "Risque": "FAIBLE",
+        "RUL": 41.7,
+        "maintenance_done": 0,
+        "Vibration": 2.9,
+        "Temp": 14.8
+    },
+    {
+        "turbine_id": 49,
+        "Risque": "FAIBLE",
+        "RUL": 41.6,
+        "maintenance_done": 0,
+        "Vibration": 1.69,
+        "Temp": 52.9
+    },
+    {
+        "turbine_id": 7,
+        "Risque": "FAIBLE",
+        "RUL": 32.6,
+        "maintenance_done": 0,
+        "Vibration": 4.33,
+        "Temp": 32.5
+    },
+    {
+        "turbine_id": 50,
+        "Risque": "FAIBLE",
+        "RUL": 24.9,
+        "maintenance_done": 0,
+        "Vibration": 6.12,
+        "Temp": 36.1
+    },
+    {
+        "turbine_id": 50,
+        "Risque": "FAIBLE",
+        "RUL": 37.9,
+        "maintenance_done": 0,
+        "Vibration": 3.22,
+        "Temp": 51.8
+    },
+    {
+        "turbine_id": 16,
+        "Risque": "FAIBLE",
+        "RUL": 55.0,
+        "maintenance_done": 0,
+        "Vibration": 0.0,
+        "Temp": 37.1
+    },
+    {
+        "turbine_id": 7,
+        "Risque": "FAIBLE",
+        "RUL": 44.1,
+        "maintenance_done": 0,
+        "Vibration": 2.2,
+        "Temp": 18.0
+    },
+    {
+        "turbine_id": 24,
+        "Risque": "FAIBLE",
+        "RUL": 34.6,
+        "maintenance_done": 1,
+        "Vibration": 1.16,
+        "Temp": 16.3
+    },
+    {
+        "turbine_id": 33,
+        "Risque": "MOD\u00c9R\u00c9",
+        "RUL": 12.6,
+        "maintenance_done": 0,
+        "Vibration": 3.66,
+        "Temp": 74.6
+    },
+    {
+        "turbine_id": 42,
+        "Risque": "FAIBLE",
+        "RUL": 25.7,
+        "maintenance_done": 1,
+        "Vibration": 3.45,
+        "Temp": 15.3
+    },
+    {
+        "turbine_id": 25,
+        "Risque": "FAIBLE",
+        "RUL": 53.0,
+        "maintenance_done": 0,
+        "Vibration": 0.1,
+        "Temp": 45.0
+    },
+    {
+        "turbine_id": 34,
+        "Risque": "FAIBLE",
+        "RUL": 43.8,
+        "maintenance_done": 1,
+        "Vibration": 0.0,
+        "Temp": 36.7
+    },
+    {
+        "turbine_id": 43,
+        "Risque": "FAIBLE",
+        "RUL": 27.5,
+        "maintenance_done": 0,
+        "Vibration": 3.3,
+        "Temp": 55.3
+    },
+    {
+        "turbine_id": 34,
+        "Risque": "FAIBLE",
+        "RUL": 57.4,
+        "maintenance_done": 0,
+        "Vibration": 0.0,
+        "Temp": 21.8
+    },
+    {
+        "turbine_id": 17,
+        "Risque": "FAIBLE",
+        "RUL": 30.0,
+        "maintenance_done": 0,
+        "Vibration": 4.99,
+        "Temp": 14.7
+    },
+    {
+        "turbine_id": 8,
+        "Risque": "FAIBLE",
+        "RUL": 31.3,
+        "maintenance_done": 0,
+        "Vibration": 4.8,
+        "Temp": 34.9
+    },
+    {
+        "turbine_id": 26,
+        "Risque": "MOD\u00c9R\u00c9",
+        "RUL": 10.7,
+        "maintenance_done": 0,
+        "Vibration": 4.28,
+        "Temp": 75.3
+    },
+    {
+        "turbine_id": 26,
+        "Risque": "FAIBLE",
+        "RUL": 56.8,
+        "maintenance_done": 0,
+        "Vibration": 0.25,
+        "Temp": 34.5
+    },
+    {
+        "turbine_id": 17,
+        "Risque": "FAIBLE",
+        "RUL": 19.5,
+        "maintenance_done": 0,
+        "Vibration": 1.29,
+        "Temp": 74.2
+    },
+    {
+        "turbine_id": 43,
+        "Risque": "FAIBLE",
+        "RUL": 45.7,
+        "maintenance_done": 0,
+        "Vibration": 2.18,
+        "Temp": 41.6
+    },
+    {
+        "turbine_id": 26,
+        "Risque": "FAIBLE",
+        "RUL": 42.3,
+        "maintenance_done": 0,
+        "Vibration": 2.05,
+        "Temp": 46.2
+    },
+    {
+        "turbine_id": 35,
+        "Risque": "FAIBLE",
+        "RUL": 37.2,
+        "maintenance_done": 0,
+        "Vibration": 3.55,
+        "Temp": 42.0
+    },
+    {
+        "turbine_id": 35,
+        "Risque": "FAIBLE",
+        "RUL": 27.0,
+        "maintenance_done": 1,
+        "Vibration": 2.73,
+        "Temp": 42.2
     }
 ]
