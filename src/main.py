@@ -4,34 +4,33 @@ import os
 from train_models import train
 from detection_anomalie import traiter_donnees
 
+
 def main():
     print("🚀 --- Lancement de la solution EnergiTech ---")
 
-    # 1. Entraînement
-    if not os.path.exists("models/model_classification.pkl"):
-        print("📦 Modèles manquants, lancement de l'entraînement...")
-        train()
+    # 1. Pipeline d'Entraînement
+    # On force le ré-entraînement pour appliquer les nouveaux seuils
+    print("📦 Mise à jour des modèles IA...")
+    train()
 
-    # 2. Tests (Correction pour Mac/Linux et environnements virtuels)
+    # 2. Tests de Qualité (CI)
     print("\n🛠️ Exécution des tests unitaires...")
-    # On utilise sys.executable -m pytest pour être sûr de trouver le module
-    resultat_test = subprocess.run([sys.executable, "-m", "pytest", "tests.py"], capture_output=True, text=True)
-    
-    if resultat_test.returncode != 0:
-        print("❌ Échec des tests. Voici le rapport d'erreur :")
-        print(resultat_test.stdout)
-        print(resultat_test.stderr)
+    res = subprocess.run(
+        [sys.executable, "-m", "pytest", "tests.py"], capture_output=True, text=True
+    )
+    if res.returncode != 0:
+        print("❌ Échec des tests :\n", res.stdout)
         return
-    else:
-        print("✅ Tests validés.")
+    print("✅ Tests validés.")
 
-    # 3. Analyse
+    # 3. Analyse & Scoring
     print("\n🔮 Analyse du parc en cours...")
     traiter_donnees()
 
-# 4. Interface
+    # 4. Déploiement
     print("\n🖥️ Lancement du Cockpit Streamlit...")
     subprocess.run([sys.executable, "-m", "streamlit", "run", "app.py"])
+
 
 if __name__ == "__main__":
     main()

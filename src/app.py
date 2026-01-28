@@ -7,6 +7,8 @@ st.set_page_config(page_title="EnergiTech Cockpit", layout="wide", page_icon="âš
 
 PATH_RESULTS = "../tests/resultats.json"
 
+st.html("<style>[data-testid='stHeaderActionElements'] {display: none;}</style>")
+
 def load_data():
     if os.path.exists(PATH_RESULTS):
         df = pd.read_json(PATH_RESULTS)
