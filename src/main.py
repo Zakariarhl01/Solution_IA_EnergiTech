@@ -3,8 +3,9 @@ import sys
 import os
 from train_models import train
 from detection_anomalie import traiter_donnees
+from langsmith import traceable
 
-
+@traceable
 def main():
     print("🚀 --- Lancement de la solution EnergiTech ---")
 

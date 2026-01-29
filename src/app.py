@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 import plotly.express as px
+from langsmith import traceable
 
 st.set_page_config(page_title="EnergiTech Cockpit", layout="wide", page_icon="⚡")
 
@@ -9,6 +10,7 @@ PATH_RESULTS = "../tests/resultats.json"
 
 st.html("<style>[data-testid='stHeaderActionElements'] {display: none;}</style>")
 
+@traceable  
 def load_data():
     if os.path.exists(PATH_RESULTS):
         df = pd.read_json(PATH_RESULTS)
@@ -17,6 +19,8 @@ def load_data():
         return df
     return pd.DataFrame()
 
+
+@traceable
 def save_data(df):
     df.to_json(PATH_RESULTS, orient="records", indent=4)
 

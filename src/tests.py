@@ -2,18 +2,21 @@ import pytest
 import pandas as pd
 from scoring import calculer_score_risque
 from detection_anomalie import filtrer_anomalies_iqr
+from langsmith import traceable
 
-
+@traceable
 def test_calculer_score_risque_critique():
     # Panne prédite (1) et RUL très court (2j)
     assert calculer_score_risque(1, 2) == "CRITIQUE"
 
 
+@traceable
 def test_calculer_score_risque_eleve():
     # Pas encore de panne directe mais RUL court (10j)
     assert calculer_score_risque(0, 10) == "ÉLEVÉ"
 
 
+@traceable
 def test_filtrer_anomalies_iqr():
     """Vérifie que l'algorithme IQR détecte bien les valeurs hors normes."""
     data = {

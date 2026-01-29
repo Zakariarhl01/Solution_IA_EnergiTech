@@ -2,15 +2,18 @@ import joblib
 import os
 import pandas as pd
 import warnings
+from langsmith import traceable
 from sklearn.exceptions import InconsistentVersionWarning
 
 # Ignorer les messages de version
 warnings.filterwarnings("ignore", category=InconsistentVersionWarning)
 
+
+@traceable
 def charger_les_modeles():
     chemin_classif = "models/model_classification.pkl"
     chemin_regres = "models/model_regression.pkl"
-    
+
     if os.path.exists(chemin_classif) and os.path.exists(chemin_regres):
         model_c = joblib.load(chemin_classif)
         model_r = joblib.load(chemin_regres)
@@ -19,6 +22,8 @@ def charger_les_modeles():
         print("--- MODE SIMULATION ACTIVÉ ---")
         return None, None
 
+
+@traceable
 def predire_eolienne(model_c, model_r, donnees_capteurs):
     if model_c is None or model_r is None:
         import random

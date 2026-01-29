@@ -1,10 +1,12 @@
 import pandas as pd
 import os
 import json
+from langsmith import traceable
 from inferance import charger_les_modeles, predire_eolienne
 from scoring import calculer_score_risque
 
 
+@traceable
 def filtrer_anomalies_iqr(df):
     """Détection élargie pour correspondre aux statistiques globales."""
     df_travail = df.copy()
@@ -23,7 +25,7 @@ def filtrer_anomalies_iqr(df):
 
     return df_travail.loc[list(indices_anomalies)]
 
-
+@traceable
 def traiter_donnees():
     DATA_PATH = "../data/energiTech_par_turbine.csv"
     RESULTS_PATH = "../tests/resultats.json"
@@ -70,7 +72,6 @@ def traiter_donnees():
 
     with open(RESULTS_PATH, "w") as f:
         json.dump(resultats_uniques, f, indent=4)
-
 
 if __name__ == "__main__":
     traiter_donnees()

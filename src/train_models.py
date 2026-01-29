@@ -2,8 +2,9 @@ import pandas as pd
 from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 import joblib
 import os
+from langsmith import traceable
 
-
+@traceable
 def train():
     DATA_PATH = "../data/energiTech_par_turbine.csv"
     MODEL_DIR = "models"

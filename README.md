@@ -54,3 +54,56 @@ Solution_IA_EnergiTech/
 ├── data/                    # 📂 Données sources (CSV)
 ├── tests/                   # 📂 Artefacts (resultats.json)
 └── requirements.txt         # 📋 Dépendances
+
+## Installation & Setup
+
+1. **Clone le repository:**
+
+   ```bash
+   git clone https://github.com/Zakariarhl01/Solution_IA_EnergiTech.git
+   cd Solution_IA_EnergiTech
+   ```
+
+2. **Installe les dépendances:**
+
+   ```bash
+   pip install -r requirements.txt
+
+   ```
+
+3. **Prépare ta clé LangSmith**
+
+    Dans le fichier `.env` à la racine du projet, stocke
+
+    ```
+    LANGCHAIN_TRACING_V2=true
+    LANGCHAIN_ENDPOINT=https://api.smith.langchain.com
+    LANGCHAIN_API_KEY=votre_cle_api_langsmith
+    LANGCHAIN_PROJECT=votre_projet
+    LANGCHAIN_WORKSPACE_ID=votre_id
+    ```
+    Lien pour générer une API key [LangSmith](https://smith.langchain.com/).
+---
+
+# Licence et Droits d'Utilisation
+
+Ce projet est publié sous la Licence MIT, offrant une flexibilité maximale pour l'utilisation, la modification et la distribution.
+
+- Autorisations : La licence MIT accorde aux utilisateurs le droit d'utilisation commerciale sans restrictions ni redevances, la modification et la création d'œuvres dérivées, la distribution de versions originales ou modifiées, l'utilisation privée à des fins internes et l'utilisation de brevets pour les implémentations. Les organisations de toute taille peuvent adopter ce projet, l'intégrer dans des produits commerciaux, le modifier pour répondre à des besoins spécifiques et le déployer dans n'importe quel contexte commercial sans contraintes légales ni frais de licence.
+
+- Limitations : Le logiciel est fourni « en l'état », sans aucune garantie d'aucune sorte. Aucune responsabilité n'est acceptée pour les dommages ou pertes découlant de son utilisation. Aucun droit de marque n'est accordé au-delà de ceux explicitement énoncés. Ces limitations standard protègent le projet tout en maintenant une large utilisabilité.
+
+- Conditions : Les utilisateurs doivent inclure l'avis de droit d'auteur (copyright) original dans les distributions ainsi que le texte de la licence avec les copies du logiciel. Ces exigences minimales garantissent une attribution appropriée tout en permettant une flexibilité maximale de déploiement et de modification.
+
+Le texte complet de la licence se trouve dans le fichier LICENSE à la racine du dépôt. Cette approche permissive maximise l'impact potentiel du projet sur l'accessibilité de l'intelligence d'affaires (Business Intelligence) pour divers contextes organisationnels, des startups aux grandes entreprises.
+
+
+# Auteurs
+
+Ibrahima Sory DIALLO
+Etudiant en Bachelor IA / DATA
+Disponible sur linkedin https://www.linkedin.com/in/ibrahima-sory-diallo-isd/
+
+Zakaria
+
+Prince
