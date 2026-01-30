@@ -59,17 +59,12 @@ Solution_IA_EnergiTech/
 
 1. **Clone le repository:**
 
-   ```bash
    git clone https://github.com/Zakariarhl01/Solution_IA_EnergiTech.git
    cd Solution_IA_EnergiTech
-   ```
 
 2. **Installe les dépendances:**
 
-   ```bash
    pip install -r requirements.txt
-
-   ```
 
 3. **Prépare ta clé LangSmith**
 
@@ -104,6 +99,9 @@ Ibrahima Sory DIALLO
 Etudiant en Bachelor IA / DATA
 Disponible sur linkedin https://www.linkedin.com/in/ibrahima-sory-diallo-isd/
 
-Zakaria
+Zakaria RAHAL
+Étudiant en Bachelor IA / DATA
+Disponible sur linkedin https://www.linkedin.com/in/zakaria-rahal-a88a75330/
+Portfolio https://zakaria-rahal.fr/
 
 Prince
