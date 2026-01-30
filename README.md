@@ -59,12 +59,17 @@ Solution_IA_EnergiTech/
 
 1. **Clone le repository:**
 
+   ```bash
    git clone https://github.com/Zakariarhl01/Solution_IA_EnergiTech.git
    cd Solution_IA_EnergiTech
+   ```
 
 2. **Installe les dépendances:**
 
+   ```bash
    pip install -r requirements.txt
+
+   ```
 
 3. **Prépare ta clé LangSmith**
 
