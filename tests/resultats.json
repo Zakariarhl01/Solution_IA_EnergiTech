@@ -1,402 +1,3377 @@
 [
     {
-        "turbine_id":35,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":32.8,
-        "maintenance_done":1,
-        "vibration_level":0.4,
-        "temperature":55.6
+        "turbine_id": 35,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 49.5,
+        "maintenance_done": 0,
+        "Vibration": 3.34,
+        "Temp": 39.9
     },
     {
-        "turbine_id":1,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":33.1,
-        "maintenance_done":1,
-        "vibration_level":5.68,
-        "temperature":52.1
+        "turbine_id": 35,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 32.8,
+        "maintenance_done": 1,
+        "Vibration": 0.4,
+        "Temp": 55.6
     },
     {
-        "turbine_id":36,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":15.0,
-        "maintenance_done":0,
-        "vibration_level":4.18,
-        "temperature":68.3
+        "turbine_id": 1,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 47.6,
+        "maintenance_done": 0,
+        "Vibration": 5.55,
+        "Temp": 40.1
     },
     {
-        "turbine_id":2,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":19.2,
-        "maintenance_done":1,
-        "vibration_level":3.64,
-        "temperature":64.9
+        "turbine_id": 1,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 33.1,
+        "maintenance_done": 0,
+        "Vibration": 5.68,
+        "Temp": 52.1
     },
     {
-        "turbine_id":37,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":14.5,
-        "maintenance_done":1,
-        "vibration_level":2.94,
-        "temperature":69.2
+        "turbine_id": 1,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 16.8,
+        "maintenance_done": 1,
+        "Vibration": 4.57,
+        "Temp": 66.5
     },
     {
-        "turbine_id":3,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":15.9,
-        "maintenance_done":0,
-        "vibration_level":3.53,
-        "temperature":67.7
+        "turbine_id": 1,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 35.1,
+        "maintenance_done": 0,
+        "Vibration": 5.25,
+        "Temp": 50.7
     },
     {
-        "turbine_id":4,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":12.5,
-        "maintenance_done":0,
-        "vibration_level":3.12,
-        "temperature":71.0
+        "turbine_id": 1,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 35.2,
+        "maintenance_done": 0,
+        "Vibration": 6.44,
+        "Temp": 50.0
     },
     {
-        "turbine_id":38,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":36.7,
-        "maintenance_done":0,
-        "vibration_level":2.9,
-        "temperature":50.8
+        "turbine_id": 36,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 55.7,
+        "maintenance_done": 1,
+        "Vibration": 5.04,
+        "Temp": 33.7
     },
     {
-        "turbine_id":5,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":14.9,
-        "maintenance_done":0,
-        "vibration_level":5.62,
-        "temperature":67.6
+        "turbine_id": 1,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 16.5,
+        "maintenance_done": 0,
+        "Vibration": 2.45,
+        "Temp": 67.9
     },
     {
-        "turbine_id":39,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":31.5,
-        "maintenance_done":1,
-        "vibration_level":1.78,
-        "temperature":55.9
+        "turbine_id": 1,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 61.5,
+        "maintenance_done": 1,
+        "Vibration": 2.25,
+        "Temp": 30.6
     },
     {
-        "turbine_id":6,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":43.5,
-        "maintenance_done":0,
-        "vibration_level":1.67,
-        "temperature":46.0
+        "turbine_id": 36,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 44.9,
+        "maintenance_done": 0,
+        "Vibration": 3.74,
+        "Temp": 43.5
     },
     {
-        "turbine_id":7,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":17.1,
-        "maintenance_done":0,
-        "vibration_level":3.71,
-        "temperature":66.6
+        "turbine_id": 36,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 47.6,
+        "maintenance_done": 0,
+        "Vibration": 2.59,
+        "Temp": 41.9
     },
     {
-        "turbine_id":41,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":18.7,
-        "maintenance_done":0,
-        "vibration_level":2.49,
-        "temperature":66.1
+        "turbine_id": 2,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 55.3,
+        "maintenance_done": 0,
+        "Vibration": 0.23,
+        "Temp": 37.0
     },
     {
-        "turbine_id":42,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":43.4,
-        "maintenance_done":0,
-        "vibration_level":0.93,
-        "temperature":46.5
+        "turbine_id": 36,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 14.9,
+        "maintenance_done": 0,
+        "Vibration": 4.18,
+        "Temp": 68.3
     },
     {
-        "turbine_id":8,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":34.4,
-        "maintenance_done":0,
-        "vibration_level":2.15,
-        "temperature":53.2
+        "turbine_id": 36,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 25.4,
+        "maintenance_done": 0,
+        "Vibration": 2.74,
+        "Temp": 60.5
     },
     {
-        "turbine_id":43,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":31.1,
-        "maintenance_done":0,
-        "vibration_level":3.3,
-        "temperature":55.3
+        "turbine_id": 2,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 52.1,
+        "maintenance_done": 0,
+        "Vibration": 5.35,
+        "Temp": 36.4
     },
     {
-        "turbine_id":9,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":40.6,
-        "maintenance_done":0,
-        "vibration_level":1.65,
-        "temperature":48.4
+        "turbine_id": 36,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 36.0,
+        "maintenance_done": 0,
+        "Vibration": 0.17,
+        "Temp": 53.1
     },
     {
-        "turbine_id":44,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":16.9,
-        "maintenance_done":0,
-        "vibration_level":3.91,
-        "temperature":66.7
+        "turbine_id": 36,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 2.8,
+        "maintenance_done": 0,
+        "Vibration": 0.76,
+        "Temp": 86.5
     },
     {
-        "turbine_id":10,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":30.9,
-        "maintenance_done":0,
-        "vibration_level":5.36,
-        "temperature":54.2
+        "turbine_id": 2,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 19.2,
+        "maintenance_done": 1,
+        "Vibration": 3.64,
+        "Temp": 64.9
     },
     {
-        "turbine_id":45,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":10.0,
-        "maintenance_done":0,
-        "vibration_level":2.28,
-        "temperature":73.2
+        "turbine_id": 2,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 56.8,
+        "maintenance_done": 0,
+        "Vibration": 0.93,
+        "Temp": 35.3
     },
     {
-        "turbine_id":11,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":30.9,
-        "maintenance_done":0,
-        "vibration_level":2.31,
-        "temperature":56.0
+        "turbine_id": 2,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 68.1,
+        "maintenance_done": 0,
+        "Vibration": 4.55,
+        "Temp": 23.8
     },
     {
-        "turbine_id":46,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":14.3,
-        "maintenance_done":0,
-        "vibration_level":3.69,
-        "temperature":69.2
+        "turbine_id": 2,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 28.0,
+        "maintenance_done": 0,
+        "Vibration": 2.63,
+        "Temp": 58.2
     },
     {
-        "turbine_id":12,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":40.5,
-        "maintenance_done":0,
-        "vibration_level":4.19,
-        "temperature":46.8
+        "turbine_id": 37,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 14.5,
+        "maintenance_done": 0,
+        "Vibration": 2.94,
+        "Temp": 69.2
     },
     {
-        "turbine_id":47,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":35.8,
-        "maintenance_done":0,
-        "vibration_level":3.72,
-        "temperature":51.0
+        "turbine_id": 2,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 52.8,
+        "maintenance_done": 0,
+        "Vibration": 3.64,
+        "Temp": 37.0
     },
     {
-        "turbine_id":13,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":9.4,
-        "maintenance_done":0,
-        "vibration_level":2.82,
-        "temperature":73.6
+        "turbine_id": 2,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 54.7,
+        "maintenance_done": 0,
+        "Vibration": 2.51,
+        "Temp": 36.1
     },
     {
-        "turbine_id":48,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":23.3,
-        "maintenance_done":0,
-        "vibration_level":3.04,
-        "temperature":61.9
+        "turbine_id": 2,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 62.5,
+        "maintenance_done": 0,
+        "Vibration": 0.91,
+        "Temp": 30.6
     },
     {
-        "turbine_id":14,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":18.2,
-        "maintenance_done":1,
-        "vibration_level":3.0,
-        "temperature":66.2
+        "turbine_id": 37,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.9,
+        "maintenance_done": 1,
+        "Vibration": 4.25,
+        "Temp": 64.8
     },
     {
-        "turbine_id":15,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":18.4,
-        "maintenance_done":0,
-        "vibration_level":3.36,
-        "temperature":65.7
+        "turbine_id": 3,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 50.9,
+        "maintenance_done": 0,
+        "Vibration": 3.18,
+        "Temp": 38.8
     },
     {
-        "turbine_id":49,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":35.6,
-        "maintenance_done":1,
-        "vibration_level":5.35,
-        "temperature":50.0
+        "turbine_id": 3,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 48.4,
+        "maintenance_done": 0,
+        "Vibration": 4.78,
+        "Temp": 39.8
     },
     {
-        "turbine_id":16,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":16.5,
-        "maintenance_done":0,
-        "vibration_level":2.03,
-        "temperature":68.2
+        "turbine_id": 37,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 35.9,
+        "maintenance_done": 0,
+        "Vibration": 0.57,
+        "Temp": 52.9
     },
     {
-        "turbine_id":50,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":35.2,
-        "maintenance_done":0,
-        "vibration_level":3.22,
-        "temperature":51.8
+        "turbine_id": 3,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 54.9,
+        "maintenance_done": 0,
+        "Vibration": 2.81,
+        "Temp": 35.7
     },
     {
-        "turbine_id":17,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":18.8,
-        "maintenance_done":0,
-        "vibration_level":2.42,
-        "temperature":66.1
+        "turbine_id": 37,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 44.1,
+        "maintenance_done": 0,
+        "Vibration": 5.08,
+        "Temp": 43.2
     },
     {
-        "turbine_id":18,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":24.3,
-        "maintenance_done":0,
-        "vibration_level":0.95,
-        "temperature":62.2
+        "turbine_id": 37,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 45.0,
+        "maintenance_done": 0,
+        "Vibration": 0.15,
+        "Temp": 45.5
     },
     {
-        "turbine_id":19,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":41.0,
-        "maintenance_done":0,
-        "vibration_level":2.63,
-        "temperature":47.4
+        "turbine_id": 37,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 33.2,
+        "maintenance_done": 0,
+        "Vibration": 0.23,
+        "Temp": 55.3
     },
     {
-        "turbine_id":20,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":43.5,
-        "maintenance_done":0,
-        "vibration_level":2.95,
-        "temperature":45.1
+        "turbine_id": 3,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 57.3,
+        "maintenance_done": 0,
+        "Vibration": 0.9,
+        "Temp": 34.9
     },
     {
-        "turbine_id":21,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":18.3,
-        "maintenance_done":0,
-        "vibration_level":2.94,
-        "temperature":66.2
+        "turbine_id": 3,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 50.4,
+        "maintenance_done": 0,
+        "Vibration": 0.39,
+        "Temp": 40.8
     },
     {
-        "turbine_id":22,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":30.9,
-        "maintenance_done":1,
-        "vibration_level":0.6,
-        "temperature":57.0
+        "turbine_id": 37,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 47.3,
+        "maintenance_done": 0,
+        "Vibration": 1.82,
+        "Temp": 42.7
     },
     {
-        "turbine_id":23,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":35.2,
-        "maintenance_done":0,
-        "vibration_level":5.7,
-        "temperature":50.3
+        "turbine_id": 3,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 15.9,
+        "maintenance_done": 0,
+        "Vibration": 3.53,
+        "Temp": 67.7
     },
     {
-        "turbine_id":24,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":44.6,
-        "maintenance_done":0,
-        "vibration_level":1.63,
-        "temperature":45.1
+        "turbine_id": 3,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 42.7,
+        "maintenance_done": 0,
+        "Vibration": 3.33,
+        "Temp": 45.5
     },
     {
-        "turbine_id":26,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":7.0,
-        "maintenance_done":0,
-        "vibration_level":4.28,
-        "temperature":75.3
+        "turbine_id": 3,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 36.0,
+        "maintenance_done": 0,
+        "Vibration": 5.9,
+        "Temp": 49.6
     },
     {
-        "turbine_id":27,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":25.0,
-        "maintenance_done":0,
-        "vibration_level":3.66,
-        "temperature":60.0
+        "turbine_id": 37,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.7,
+        "maintenance_done": 0,
+        "Vibration": 2.88,
+        "Temp": 65.8
     },
     {
-        "turbine_id":28,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":14.2,
-        "maintenance_done":1,
-        "vibration_level":4.25,
-        "temperature":69.0
+        "turbine_id": 37,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.2,
+        "maintenance_done": 0,
+        "Vibration": 1.11,
+        "Temp": 67.2
     },
     {
-        "turbine_id":29,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":33.0,
-        "maintenance_done":0,
-        "vibration_level":5.13,
-        "temperature":52.4
+        "turbine_id": 3,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 62.7,
+        "maintenance_done": 1,
+        "Vibration": 0.57,
+        "Temp": 30.6
     },
     {
-        "turbine_id":30,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":15.2,
-        "maintenance_done":0,
-        "vibration_level":3.1,
-        "temperature":68.6
+        "turbine_id": 37,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 39.0,
+        "maintenance_done": 0,
+        "Vibration": 2.66,
+        "Temp": 49.1
     },
     {
-        "turbine_id":31,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":30.1,
-        "maintenance_done":0,
-        "vibration_level":2.47,
-        "temperature":56.6
+        "turbine_id": 3,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 17.1,
+        "maintenance_done": 0,
+        "Vibration": 3.59,
+        "Temp": 66.9
     },
     {
-        "turbine_id":32,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":19.6,
-        "maintenance_done":0,
-        "vibration_level":2.53,
-        "temperature":65.3
+        "turbine_id": 38,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 54.7,
+        "maintenance_done": 0,
+        "Vibration": 2.76,
+        "Temp": 35.9
     },
     {
-        "turbine_id":33,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":8.1,
-        "maintenance_done":0,
-        "vibration_level":3.66,
-        "temperature":74.6
+        "turbine_id": 3,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 33.4,
+        "maintenance_done": 0,
+        "Vibration": 3.23,
+        "Temp": 53.4
     },
     {
-        "turbine_id":34,
-        "Risque":"\u00c9LEV\u00c9",
-        "RUL":37.1,
-        "maintenance_done":0,
-        "vibration_level":5.48,
-        "temperature":48.8
+        "turbine_id": 4,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 12.5,
+        "maintenance_done": 0,
+        "Vibration": 3.12,
+        "Temp": 71.0
     },
     {
-        "turbine_id":40,
-        "Risque":"FAIBLE",
-        "RUL":50.1,
-        "maintenance_done":0,
-        "vibration_level":5.14,
-        "temperature":38.2
+        "turbine_id": 38,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 36.6,
+        "maintenance_done": 0,
+        "Vibration": 2.9,
+        "Temp": 50.8
     },
     {
-        "turbine_id":25,
-        "Risque":"FAIBLE",
-        "RUL":69.3,
-        "maintenance_done":0,
-        "vibration_level":1.72,
-        "temperature":24.3
+        "turbine_id": 4,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 69.6,
+        "maintenance_done": 0,
+        "Vibration": 2.17,
+        "Temp": 23.7
+    },
+    {
+        "turbine_id": 38,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 49.9,
+        "maintenance_done": 0,
+        "Vibration": 0.0,
+        "Temp": 41.6
+    },
+    {
+        "turbine_id": 4,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 57.6,
+        "maintenance_done": 1,
+        "Vibration": 5.19,
+        "Temp": 32.1
+    },
+    {
+        "turbine_id": 38,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.4,
+        "maintenance_done": 0,
+        "Vibration": 2.09,
+        "Temp": 66.4
+    },
+    {
+        "turbine_id": 38,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 30.8,
+        "maintenance_done": 1,
+        "Vibration": 5.09,
+        "Temp": 54.4
+    },
+    {
+        "turbine_id": 4,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 67.8,
+        "maintenance_done": 0,
+        "Vibration": 4.41,
+        "Temp": 23.9
+    },
+    {
+        "turbine_id": 4,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.0,
+        "maintenance_done": 0,
+        "Vibration": 4.07,
+        "Temp": 65.8
+    },
+    {
+        "turbine_id": 5,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 71.9,
+        "maintenance_done": 0,
+        "Vibration": 4.19,
+        "Temp": 20.7
+    },
+    {
+        "turbine_id": 5,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 14.9,
+        "maintenance_done": 0,
+        "Vibration": 5.62,
+        "Temp": 67.6
+    },
+    {
+        "turbine_id": 39,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 31.5,
+        "maintenance_done": 1,
+        "Vibration": 1.78,
+        "Temp": 55.9
+    },
+    {
+        "turbine_id": 5,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 41.6,
+        "maintenance_done": 0,
+        "Vibration": 3.13,
+        "Temp": 46.6
+    },
+    {
+        "turbine_id": 5,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 45.7,
+        "maintenance_done": 0,
+        "Vibration": 2.61,
+        "Temp": 43.5
+    },
+    {
+        "turbine_id": 5,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 58.7,
+        "maintenance_done": 1,
+        "Vibration": 1.28,
+        "Temp": 33.5
+    },
+    {
+        "turbine_id": 5,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 55.8,
+        "maintenance_done": 0,
+        "Vibration": 2.68,
+        "Temp": 35.1
+    },
+    {
+        "turbine_id": 5,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 54.3,
+        "maintenance_done": 0,
+        "Vibration": 0.0,
+        "Temp": 37.7
+    },
+    {
+        "turbine_id": 5,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 40.5,
+        "maintenance_done": 0,
+        "Vibration": 1.98,
+        "Temp": 48.3
+    },
+    {
+        "turbine_id": 39,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 34.8,
+        "maintenance_done": 0,
+        "Vibration": 5.05,
+        "Temp": 51.1
+    },
+    {
+        "turbine_id": 39,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 20.0,
+        "maintenance_done": 1,
+        "Vibration": 1.68,
+        "Temp": 65.4
+    },
+    {
+        "turbine_id": 5,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 35.7,
+        "maintenance_done": 0,
+        "Vibration": 2.46,
+        "Temp": 51.9
+    },
+    {
+        "turbine_id": 40,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 50.1,
+        "maintenance_done": 0,
+        "Vibration": 5.14,
+        "Temp": 38.2
+    },
+    {
+        "turbine_id": 5,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 37.6,
+        "maintenance_done": 1,
+        "Vibration": 5.05,
+        "Temp": 48.7
+    },
+    {
+        "turbine_id": 6,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 43.5,
+        "maintenance_done": 0,
+        "Vibration": 1.67,
+        "Temp": 46.0
+    },
+    {
+        "turbine_id": 6,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 32.5,
+        "maintenance_done": 0,
+        "Vibration": 4.1,
+        "Temp": 53.5
+    },
+    {
+        "turbine_id": 40,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 48.3,
+        "maintenance_done": 0,
+        "Vibration": 0.83,
+        "Temp": 42.5
+    },
+    {
+        "turbine_id": 6,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 64.8,
+        "maintenance_done": 0,
+        "Vibration": 5.28,
+        "Temp": 26.1
+    },
+    {
+        "turbine_id": 6,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 46.2,
+        "maintenance_done": 0,
+        "Vibration": 2.35,
+        "Temp": 43.3
+    },
+    {
+        "turbine_id": 6,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 68.0,
+        "maintenance_done": 0,
+        "Vibration": 3.76,
+        "Temp": 24.2
+    },
+    {
+        "turbine_id": 40,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 4.9,
+        "maintenance_done": 1,
+        "Vibration": 4.58,
+        "Temp": 77.0
+    },
+    {
+        "turbine_id": 6,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 52.0,
+        "maintenance_done": 0,
+        "Vibration": 5.25,
+        "Temp": 36.5
+    },
+    {
+        "turbine_id": 6,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 70.0,
+        "maintenance_done": 0,
+        "Vibration": 2.88,
+        "Temp": 23.0
+    },
+    {
+        "turbine_id": 41,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 69.5,
+        "maintenance_done": 0,
+        "Vibration": 0.46,
+        "Temp": 24.9
+    },
+    {
+        "turbine_id": 41,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 78.9,
+        "maintenance_done": 0,
+        "Vibration": 2.21,
+        "Temp": 16.2
+    },
+    {
+        "turbine_id": 41,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 80.7,
+        "maintenance_done": 1,
+        "Vibration": 2.87,
+        "Temp": 13.8
+    },
+    {
+        "turbine_id": 6,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 70.8,
+        "maintenance_done": 0,
+        "Vibration": 2.66,
+        "Temp": 22.2
+    },
+    {
+        "turbine_id": 7,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 55.1,
+        "maintenance_done": 1,
+        "Vibration": 5.12,
+        "Temp": 34.1
+    },
+    {
+        "turbine_id": 7,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 50.6,
+        "maintenance_done": 0,
+        "Vibration": 5.73,
+        "Temp": 37.4
+    },
+    {
+        "turbine_id": 7,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 17.1,
+        "maintenance_done": 0,
+        "Vibration": 3.71,
+        "Temp": 66.6
+    },
+    {
+        "turbine_id": 7,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 49.9,
+        "maintenance_done": 0,
+        "Vibration": 3.56,
+        "Temp": 39.4
+    },
+    {
+        "turbine_id": 7,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 79.8,
+        "maintenance_done": 0,
+        "Vibration": 2.9,
+        "Temp": 14.8
+    },
+    {
+        "turbine_id": 41,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.7,
+        "maintenance_done": 0,
+        "Vibration": 2.49,
+        "Temp": 66.1
+    },
+    {
+        "turbine_id": 7,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 57.5,
+        "maintenance_done": 0,
+        "Vibration": 4.33,
+        "Temp": 32.5
+    },
+    {
+        "turbine_id": 41,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 70.7,
+        "maintenance_done": 1,
+        "Vibration": 3.25,
+        "Temp": 22.3
+    },
+    {
+        "turbine_id": 7,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 42.8,
+        "maintenance_done": 0,
+        "Vibration": 2.41,
+        "Temp": 46.0
+    },
+    {
+        "turbine_id": 7,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 60.3,
+        "maintenance_done": 0,
+        "Vibration": 5.19,
+        "Temp": 29.7
+    },
+    {
+        "turbine_id": 42,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 43.4,
+        "maintenance_done": 0,
+        "Vibration": 0.93,
+        "Temp": 46.5
+    },
+    {
+        "turbine_id": 42,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 48.8,
+        "maintenance_done": 0,
+        "Vibration": 5.34,
+        "Temp": 39.2
+    },
+    {
+        "turbine_id": 7,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 27.6,
+        "maintenance_done": 0,
+        "Vibration": 2.8,
+        "Temp": 58.4
+    },
+    {
+        "turbine_id": 7,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 44.7,
+        "maintenance_done": 0,
+        "Vibration": 1.94,
+        "Temp": 44.8
+    },
+    {
+        "turbine_id": 7,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 76.2,
+        "maintenance_done": 0,
+        "Vibration": 2.2,
+        "Temp": 18.0
+    },
+    {
+        "turbine_id": 8,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 70.2,
+        "maintenance_done": 1,
+        "Vibration": 4.34,
+        "Temp": 22.1
+    },
+    {
+        "turbine_id": 42,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 79.0,
+        "maintenance_done": 1,
+        "Vibration": 3.45,
+        "Temp": 15.3
+    },
+    {
+        "turbine_id": 42,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 30.4,
+        "maintenance_done": 0,
+        "Vibration": 5.27,
+        "Temp": 54.7
+    },
+    {
+        "turbine_id": 8,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 34.4,
+        "maintenance_done": 0,
+        "Vibration": 2.15,
+        "Temp": 53.2
+    },
+    {
+        "turbine_id": 8,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 36.7,
+        "maintenance_done": 1,
+        "Vibration": 0.82,
+        "Temp": 52.1
+    },
+    {
+        "turbine_id": 8,
+        "Date": "30/01/2026 18:01",
+        "Risque": "MOD\u00c9R\u00c9",
+        "RUL": 42.9,
+        "maintenance_done": 0,
+        "Vibration": 5.12,
+        "Temp": 44.3
+    },
+    {
+        "turbine_id": 42,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.9,
+        "maintenance_done": 1,
+        "Vibration": 0.46,
+        "Temp": 66.7
+    },
+    {
+        "turbine_id": 42,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 60.5,
+        "maintenance_done": 0,
+        "Vibration": 0.85,
+        "Temp": 32.3
+    },
+    {
+        "turbine_id": 42,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 13.2,
+        "maintenance_done": 1,
+        "Vibration": 1.64,
+        "Temp": 71.3
+    },
+    {
+        "turbine_id": 43,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 31.1,
+        "maintenance_done": 0,
+        "Vibration": 3.3,
+        "Temp": 55.3
+    },
+    {
+        "turbine_id": 8,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 31.3,
+        "maintenance_done": 0,
+        "Vibration": 5.24,
+        "Temp": 53.9
+    },
+    {
+        "turbine_id": 43,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 45.1,
+        "maintenance_done": 0,
+        "Vibration": 2.01,
+        "Temp": 44.4
+    },
+    {
+        "turbine_id": 8,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 22.4,
+        "maintenance_done": 0,
+        "Vibration": 1.24,
+        "Temp": 63.7
+    },
+    {
+        "turbine_id": 43,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 43.7,
+        "maintenance_done": 0,
+        "Vibration": 0.36,
+        "Temp": 46.5
+    },
+    {
+        "turbine_id": 8,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 72.5,
+        "maintenance_done": 0,
+        "Vibration": 5.15,
+        "Temp": 19.6
+    },
+    {
+        "turbine_id": 43,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 25.6,
+        "maintenance_done": 0,
+        "Vibration": 1.33,
+        "Temp": 61.0
+    },
+    {
+        "turbine_id": 8,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 54.4,
+        "maintenance_done": 0,
+        "Vibration": 4.8,
+        "Temp": 34.9
+    },
+    {
+        "turbine_id": 43,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 19.7,
+        "maintenance_done": 0,
+        "Vibration": 2.53,
+        "Temp": 65.1
+    },
+    {
+        "turbine_id": 43,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 21.5,
+        "maintenance_done": 1,
+        "Vibration": 2.83,
+        "Temp": 63.6
+    },
+    {
+        "turbine_id": 8,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 14.5,
+        "maintenance_done": 0,
+        "Vibration": 3.53,
+        "Temp": 68.8
+    },
+    {
+        "turbine_id": 8,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 37.4,
+        "maintenance_done": 1,
+        "Vibration": 2.98,
+        "Temp": 50.2
+    },
+    {
+        "turbine_id": 9,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 75.4,
+        "maintenance_done": 0,
+        "Vibration": 3.31,
+        "Temp": 18.6
+    },
+    {
+        "turbine_id": 43,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 56.7,
+        "maintenance_done": 0,
+        "Vibration": 5.08,
+        "Temp": 32.8
+    },
+    {
+        "turbine_id": 43,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 15.5,
+        "maintenance_done": 0,
+        "Vibration": 1.38,
+        "Temp": 69.0
+    },
+    {
+        "turbine_id": 43,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 48.3,
+        "maintenance_done": 0,
+        "Vibration": 2.18,
+        "Temp": 41.6
+    },
+    {
+        "turbine_id": 9,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 40.6,
+        "maintenance_done": 0,
+        "Vibration": 1.65,
+        "Temp": 48.4
+    },
+    {
+        "turbine_id": 9,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 68.8,
+        "maintenance_done": 0,
+        "Vibration": 2.43,
+        "Temp": 24.5
+    },
+    {
+        "turbine_id": 9,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 51.7,
+        "maintenance_done": 0,
+        "Vibration": 0.63,
+        "Temp": 39.6
+    },
+    {
+        "turbine_id": 9,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 17.5,
+        "maintenance_done": 0,
+        "Vibration": 3.73,
+        "Temp": 66.3
+    },
+    {
+        "turbine_id": 43,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 27.3,
+        "maintenance_done": 0,
+        "Vibration": 4.21,
+        "Temp": 57.8
+    },
+    {
+        "turbine_id": 43,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 13.1,
+        "maintenance_done": 1,
+        "Vibration": 2.06,
+        "Temp": 71.1
+    },
+    {
+        "turbine_id": 43,
+        "Date": "30/01/2026 18:01",
+        "Risque": "MOD\u00c9R\u00c9",
+        "RUL": 43.5,
+        "maintenance_done": 0,
+        "Vibration": 4.59,
+        "Temp": 44.0
+    },
+    {
+        "turbine_id": 9,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 50.5,
+        "maintenance_done": 0,
+        "Vibration": 6.23,
+        "Temp": 37.3
+    },
+    {
+        "turbine_id": 44,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 65.3,
+        "maintenance_done": 0,
+        "Vibration": 1.45,
+        "Temp": 27.8
+    },
+    {
+        "turbine_id": 44,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 48.2,
+        "maintenance_done": 0,
+        "Vibration": 3.37,
+        "Temp": 41.0
+    },
+    {
+        "turbine_id": 9,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 19.1,
+        "maintenance_done": 0,
+        "Vibration": 3.77,
+        "Temp": 64.8
+    },
+    {
+        "turbine_id": 44,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 73.2,
+        "maintenance_done": 0,
+        "Vibration": 3.48,
+        "Temp": 19.7
+    },
+    {
+        "turbine_id": 9,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 41.6,
+        "maintenance_done": 1,
+        "Vibration": 0.8,
+        "Temp": 48.2
+    },
+    {
+        "turbine_id": 9,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 59.0,
+        "maintenance_done": 0,
+        "Vibration": 0.28,
+        "Temp": 33.7
+    },
+    {
+        "turbine_id": 44,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 16.9,
+        "maintenance_done": 0,
+        "Vibration": 3.91,
+        "Temp": 66.7
+    },
+    {
+        "turbine_id": 9,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 69.3,
+        "maintenance_done": 0,
+        "Vibration": 2.92,
+        "Temp": 23.6
+    },
+    {
+        "turbine_id": 44,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 51.2,
+        "maintenance_done": 0,
+        "Vibration": 5.04,
+        "Temp": 37.3
+    },
+    {
+        "turbine_id": 10,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 30.9,
+        "maintenance_done": 0,
+        "Vibration": 5.36,
+        "Temp": 54.2
+    },
+    {
+        "turbine_id": 10,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 47.1,
+        "maintenance_done": 1,
+        "Vibration": 3.08,
+        "Temp": 42.0
+    },
+    {
+        "turbine_id": 44,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 59.8,
+        "maintenance_done": 0,
+        "Vibration": 5.57,
+        "Temp": 30.0
+    },
+    {
+        "turbine_id": 44,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 29.6,
+        "maintenance_done": 0,
+        "Vibration": 0.94,
+        "Temp": 57.8
+    },
+    {
+        "turbine_id": 10,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 72.0,
+        "maintenance_done": 0,
+        "Vibration": 2.71,
+        "Temp": 21.6
+    },
+    {
+        "turbine_id": 10,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 37.6,
+        "maintenance_done": 1,
+        "Vibration": 3.21,
+        "Temp": 49.8
+    },
+    {
+        "turbine_id": 44,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 43.5,
+        "maintenance_done": 0,
+        "Vibration": 2.32,
+        "Temp": 45.5
+    },
+    {
+        "turbine_id": 45,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 76.3,
+        "maintenance_done": 0,
+        "Vibration": 0.81,
+        "Temp": 18.7
+    },
+    {
+        "turbine_id": 10,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 49.7,
+        "maintenance_done": 1,
+        "Vibration": 0.53,
+        "Temp": 41.6
+    },
+    {
+        "turbine_id": 10,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 19.9,
+        "maintenance_done": 0,
+        "Vibration": 1.77,
+        "Temp": 65.5
+    },
+    {
+        "turbine_id": 10,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 13.6,
+        "maintenance_done": 1,
+        "Vibration": 1.99,
+        "Temp": 70.5
+    },
+    {
+        "turbine_id": 45,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 9.9,
+        "maintenance_done": 0,
+        "Vibration": 2.28,
+        "Temp": 73.2
+    },
+    {
+        "turbine_id": 10,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.9,
+        "maintenance_done": 0,
+        "Vibration": 4.0,
+        "Temp": 65.0
+    },
+    {
+        "turbine_id": 10,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 68.0,
+        "maintenance_done": 0,
+        "Vibration": 3.76,
+        "Temp": 24.2
+    },
+    {
+        "turbine_id": 45,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 71.3,
+        "maintenance_done": 0,
+        "Vibration": 2.06,
+        "Temp": 22.3
+    },
+    {
+        "turbine_id": 10,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 49.1,
+        "maintenance_done": 0,
+        "Vibration": 3.7,
+        "Temp": 40.0
+    },
+    {
+        "turbine_id": 10,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 45.4,
+        "maintenance_done": 1,
+        "Vibration": 3.22,
+        "Temp": 43.3
+    },
+    {
+        "turbine_id": 10,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 46.7,
+        "maintenance_done": 0,
+        "Vibration": 5.29,
+        "Temp": 40.9
+    },
+    {
+        "turbine_id": 10,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 35.2,
+        "maintenance_done": 0,
+        "Vibration": 5.17,
+        "Temp": 50.6
+    },
+    {
+        "turbine_id": 45,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 49.4,
+        "maintenance_done": 0,
+        "Vibration": 3.69,
+        "Temp": 39.7
+    },
+    {
+        "turbine_id": 45,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 27.9,
+        "maintenance_done": 1,
+        "Vibration": 3.43,
+        "Temp": 57.7
+    },
+    {
+        "turbine_id": 11,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 46.6,
+        "maintenance_done": 1,
+        "Vibration": 5.8,
+        "Temp": 40.9
+    },
+    {
+        "turbine_id": 11,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 30.9,
+        "maintenance_done": 0,
+        "Vibration": 2.31,
+        "Temp": 56.0
+    },
+    {
+        "turbine_id": 45,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 34.6,
+        "maintenance_done": 0,
+        "Vibration": 2.81,
+        "Temp": 52.6
+    },
+    {
+        "turbine_id": 46,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 14.3,
+        "maintenance_done": 0,
+        "Vibration": 3.69,
+        "Temp": 69.2
+    },
+    {
+        "turbine_id": 46,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 16.3,
+        "maintenance_done": 0,
+        "Vibration": 1.57,
+        "Temp": 68.3
+    },
+    {
+        "turbine_id": 46,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 53.5,
+        "maintenance_done": 0,
+        "Vibration": 0.38,
+        "Temp": 38.4
+    },
+    {
+        "turbine_id": 46,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 58.4,
+        "maintenance_done": 0,
+        "Vibration": 0.81,
+        "Temp": 33.9
+    },
+    {
+        "turbine_id": 11,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 69.1,
+        "maintenance_done": 0,
+        "Vibration": 1.83,
+        "Temp": 24.5
+    },
+    {
+        "turbine_id": 46,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 10.8,
+        "maintenance_done": 1,
+        "Vibration": 4.74,
+        "Temp": 71.8
+    },
+    {
+        "turbine_id": 46,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 71.9,
+        "maintenance_done": 0,
+        "Vibration": 2.65,
+        "Temp": 21.7
+    },
+    {
+        "turbine_id": 46,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 27.9,
+        "maintenance_done": 0,
+        "Vibration": 5.7,
+        "Temp": 56.7
+    },
+    {
+        "turbine_id": 12,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 78.7,
+        "maintenance_done": 0,
+        "Vibration": 2.26,
+        "Temp": 16.4
+    },
+    {
+        "turbine_id": 12,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 58.6,
+        "maintenance_done": 0,
+        "Vibration": 5.05,
+        "Temp": 31.4
+    },
+    {
+        "turbine_id": 12,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 40.5,
+        "maintenance_done": 0,
+        "Vibration": 4.19,
+        "Temp": 46.8
+    },
+    {
+        "turbine_id": 12,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 36.4,
+        "maintenance_done": 0,
+        "Vibration": 0.48,
+        "Temp": 52.5
+    },
+    {
+        "turbine_id": 47,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 79.5,
+        "maintenance_done": 0,
+        "Vibration": 2.37,
+        "Temp": 15.6
+    },
+    {
+        "turbine_id": 12,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 30.3,
+        "maintenance_done": 0,
+        "Vibration": 3.54,
+        "Temp": 55.7
+    },
+    {
+        "turbine_id": 47,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 35.8,
+        "maintenance_done": 0,
+        "Vibration": 3.72,
+        "Temp": 51.0
+    },
+    {
+        "turbine_id": 47,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 12.6,
+        "maintenance_done": 1,
+        "Vibration": 4.13,
+        "Temp": 70.4
+    },
+    {
+        "turbine_id": 47,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 52.7,
+        "maintenance_done": 0,
+        "Vibration": 5.0,
+        "Temp": 36.1
+    },
+    {
+        "turbine_id": 12,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 48.3,
+        "maintenance_done": 1,
+        "Vibration": 6.05,
+        "Temp": 39.3
+    },
+    {
+        "turbine_id": 47,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 48.2,
+        "maintenance_done": 0,
+        "Vibration": 0.73,
+        "Temp": 42.6
+    },
+    {
+        "turbine_id": 47,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 80.8,
+        "maintenance_done": 0,
+        "Vibration": 2.13,
+        "Temp": 14.2
+    },
+    {
+        "turbine_id": 13,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 9.3,
+        "maintenance_done": 0,
+        "Vibration": 2.82,
+        "Temp": 73.6
+    },
+    {
+        "turbine_id": 13,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 45.3,
+        "maintenance_done": 1,
+        "Vibration": 7.03,
+        "Temp": 41.3
+    },
+    {
+        "turbine_id": 47,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 32.6,
+        "maintenance_done": 0,
+        "Vibration": 2.8,
+        "Temp": 54.3
+    },
+    {
+        "turbine_id": 13,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 47.8,
+        "maintenance_done": 0,
+        "Vibration": 0.79,
+        "Temp": 42.9
+    },
+    {
+        "turbine_id": 13,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 72.7,
+        "maintenance_done": 0,
+        "Vibration": 1.97,
+        "Temp": 21.4
+    },
+    {
+        "turbine_id": 47,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 19.2,
+        "maintenance_done": 0,
+        "Vibration": 3.53,
+        "Temp": 64.9
+    },
+    {
+        "turbine_id": 13,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.0,
+        "maintenance_done": 1,
+        "Vibration": 2.06,
+        "Temp": 66.9
+    },
+    {
+        "turbine_id": 48,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 23.3,
+        "maintenance_done": 0,
+        "Vibration": 3.04,
+        "Temp": 61.9
+    },
+    {
+        "turbine_id": 48,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 48.8,
+        "maintenance_done": 0,
+        "Vibration": 5.01,
+        "Temp": 39.3
+    },
+    {
+        "turbine_id": 48,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 17.3,
+        "maintenance_done": 0,
+        "Vibration": 3.04,
+        "Temp": 67.1
+    },
+    {
+        "turbine_id": 48,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 49.5,
+        "maintenance_done": 0,
+        "Vibration": 3.43,
+        "Temp": 39.8
+    },
+    {
+        "turbine_id": 48,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 61.3,
+        "maintenance_done": 1,
+        "Vibration": 5.25,
+        "Temp": 28.9
+    },
+    {
+        "turbine_id": 14,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 60.9,
+        "maintenance_done": 0,
+        "Vibration": 3.49,
+        "Temp": 30.2
+    },
+    {
+        "turbine_id": 48,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 52.1,
+        "maintenance_done": 0,
+        "Vibration": 4.68,
+        "Temp": 36.8
+    },
+    {
+        "turbine_id": 48,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 27.5,
+        "maintenance_done": 0,
+        "Vibration": 1.93,
+        "Temp": 59.1
+    },
+    {
+        "turbine_id": 14,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.3,
+        "maintenance_done": 1,
+        "Vibration": 3.0,
+        "Temp": 66.2
+    },
+    {
+        "turbine_id": 14,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 46.4,
+        "maintenance_done": 0,
+        "Vibration": 2.47,
+        "Temp": 43.0
+    },
+    {
+        "turbine_id": 14,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 68.2,
+        "maintenance_done": 1,
+        "Vibration": 3.56,
+        "Temp": 24.1
+    },
+    {
+        "turbine_id": 48,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 13.8,
+        "maintenance_done": 0,
+        "Vibration": 3.27,
+        "Temp": 69.8
+    },
+    {
+        "turbine_id": 14,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 32.1,
+        "maintenance_done": 0,
+        "Vibration": 6.06,
+        "Temp": 52.8
+    },
+    {
+        "turbine_id": 14,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 35.7,
+        "maintenance_done": 1,
+        "Vibration": 2.26,
+        "Temp": 52.1
+    },
+    {
+        "turbine_id": 48,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 28.6,
+        "maintenance_done": 0,
+        "Vibration": 5.48,
+        "Temp": 55.9
+    },
+    {
+        "turbine_id": 48,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 28.7,
+        "maintenance_done": 1,
+        "Vibration": 5.14,
+        "Temp": 56.0
+    },
+    {
+        "turbine_id": 15,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.4,
+        "maintenance_done": 0,
+        "Vibration": 3.36,
+        "Temp": 65.7
+    },
+    {
+        "turbine_id": 15,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 12.4,
+        "maintenance_done": 0,
+        "Vibration": 3.2,
+        "Temp": 71.1
+    },
+    {
+        "turbine_id": 49,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 35.6,
+        "maintenance_done": 1,
+        "Vibration": 5.35,
+        "Temp": 50.0
+    },
+    {
+        "turbine_id": 49,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 23.3,
+        "maintenance_done": 0,
+        "Vibration": 2.58,
+        "Temp": 62.2
+    },
+    {
+        "turbine_id": 49,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 16.8,
+        "maintenance_done": 0,
+        "Vibration": 3.27,
+        "Temp": 67.3
+    },
+    {
+        "turbine_id": 49,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 46.0,
+        "maintenance_done": 0,
+        "Vibration": 2.05,
+        "Temp": 43.7
+    },
+    {
+        "turbine_id": 15,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 26.7,
+        "maintenance_done": 0,
+        "Vibration": 0.77,
+        "Temp": 60.4
+    },
+    {
+        "turbine_id": 49,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 50.5,
+        "maintenance_done": 0,
+        "Vibration": 2.48,
+        "Temp": 39.6
+    },
+    {
+        "turbine_id": 15,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 61.5,
+        "maintenance_done": 0,
+        "Vibration": 2.43,
+        "Temp": 30.4
+    },
+    {
+        "turbine_id": 15,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.4,
+        "maintenance_done": 0,
+        "Vibration": 4.64,
+        "Temp": 65.1
+    },
+    {
+        "turbine_id": 49,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 33.3,
+        "maintenance_done": 0,
+        "Vibration": 5.02,
+        "Temp": 52.2
+    },
+    {
+        "turbine_id": 15,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 69.9,
+        "maintenance_done": 0,
+        "Vibration": 1.97,
+        "Temp": 23.6
+    },
+    {
+        "turbine_id": 15,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 43.3,
+        "maintenance_done": 0,
+        "Vibration": 0.93,
+        "Temp": 46.6
+    },
+    {
+        "turbine_id": 49,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 50.8,
+        "maintenance_done": 0,
+        "Vibration": 1.69,
+        "Temp": 39.9
+    },
+    {
+        "turbine_id": 15,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 27.4,
+        "maintenance_done": 0,
+        "Vibration": 5.19,
+        "Temp": 57.3
+    },
+    {
+        "turbine_id": 15,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 47.7,
+        "maintenance_done": 0,
+        "Vibration": 5.09,
+        "Temp": 40.2
+    },
+    {
+        "turbine_id": 49,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 35.2,
+        "maintenance_done": 0,
+        "Vibration": 1.69,
+        "Temp": 52.9
+    },
+    {
+        "turbine_id": 50,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 70.8,
+        "maintenance_done": 0,
+        "Vibration": 0.35,
+        "Temp": 23.5
+    },
+    {
+        "turbine_id": 15,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.7,
+        "maintenance_done": 0,
+        "Vibration": 2.37,
+        "Temp": 66.2
+    },
+    {
+        "turbine_id": 50,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 45.1,
+        "maintenance_done": 0,
+        "Vibration": 4.18,
+        "Temp": 43.0
+    },
+    {
+        "turbine_id": 16,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 16.5,
+        "maintenance_done": 0,
+        "Vibration": 2.03,
+        "Temp": 68.2
+    },
+    {
+        "turbine_id": 50,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 72.7,
+        "maintenance_done": 0,
+        "Vibration": 2.02,
+        "Temp": 21.3
+    },
+    {
+        "turbine_id": 50,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 52.1,
+        "maintenance_done": 0,
+        "Vibration": 6.12,
+        "Temp": 36.1
+    },
+    {
+        "turbine_id": 50,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 35.2,
+        "maintenance_done": 0,
+        "Vibration": 3.22,
+        "Temp": 51.8
+    },
+    {
+        "turbine_id": 16,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 49.6,
+        "maintenance_done": 0,
+        "Vibration": 0.59,
+        "Temp": 41.5
+    },
+    {
+        "turbine_id": 50,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 68.9,
+        "maintenance_done": 0,
+        "Vibration": 2.23,
+        "Temp": 24.5
+    },
+    {
+        "turbine_id": 16,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 39.6,
+        "maintenance_done": 0,
+        "Vibration": 3.89,
+        "Temp": 47.7
+    },
+    {
+        "turbine_id": 16,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 69.1,
+        "maintenance_done": 0,
+        "Vibration": 3.08,
+        "Temp": 23.7
+    },
+    {
+        "turbine_id": 50,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 42.2,
+        "maintenance_done": 0,
+        "Vibration": 0.95,
+        "Temp": 47.5
+    },
+    {
+        "turbine_id": 16,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 54.5,
+        "maintenance_done": 0,
+        "Vibration": 5.36,
+        "Temp": 34.5
+    },
+    {
+        "turbine_id": 16,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 55.3,
+        "maintenance_done": 0,
+        "Vibration": 0.0,
+        "Temp": 37.1
+    },
+    {
+        "turbine_id": 50,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 69.8,
+        "maintenance_done": 0,
+        "Vibration": 2.98,
+        "Temp": 23.2
+    },
+    {
+        "turbine_id": 16,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 34.3,
+        "maintenance_done": 0,
+        "Vibration": 4.2,
+        "Temp": 52.0
+    },
+    {
+        "turbine_id": 16,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 56.3,
+        "maintenance_done": 1,
+        "Vibration": 0.79,
+        "Temp": 35.7
+    },
+    {
+        "turbine_id": 50,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 38.7,
+        "maintenance_done": 0,
+        "Vibration": 5.04,
+        "Temp": 47.8
+    },
+    {
+        "turbine_id": 50,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 48.2,
+        "maintenance_done": 0,
+        "Vibration": 0.67,
+        "Temp": 42.7
+    },
+    {
+        "turbine_id": 16,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 47.0,
+        "maintenance_done": 0,
+        "Vibration": 4.46,
+        "Temp": 41.2
+    },
+    {
+        "turbine_id": 16,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 57.6,
+        "maintenance_done": 1,
+        "Vibration": 0.58,
+        "Temp": 34.8
+    },
+    {
+        "turbine_id": 17,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.8,
+        "maintenance_done": 0,
+        "Vibration": 2.42,
+        "Temp": 66.1
+    },
+    {
+        "turbine_id": 17,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 78.6,
+        "maintenance_done": 0,
+        "Vibration": 4.99,
+        "Temp": 14.7
+    },
+    {
+        "turbine_id": 17,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 31.8,
+        "maintenance_done": 0,
+        "Vibration": 5.57,
+        "Temp": 53.4
+    },
+    {
+        "turbine_id": 17,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 42.8,
+        "maintenance_done": 0,
+        "Vibration": 0.29,
+        "Temp": 47.3
+    },
+    {
+        "turbine_id": 17,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 8.8,
+        "maintenance_done": 0,
+        "Vibration": 1.29,
+        "Temp": 74.2
+    },
+    {
+        "turbine_id": 17,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 55.1,
+        "maintenance_done": 0,
+        "Vibration": 5.03,
+        "Temp": 34.1
+    },
+    {
+        "turbine_id": 17,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 72.2,
+        "maintenance_done": 0,
+        "Vibration": 2.51,
+        "Temp": 21.7
+    },
+    {
+        "turbine_id": 18,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 44.0,
+        "maintenance_done": 1,
+        "Vibration": 5.46,
+        "Temp": 43.2
+    },
+    {
+        "turbine_id": 18,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 73.3,
+        "maintenance_done": 1,
+        "Vibration": 2.13,
+        "Temp": 20.5
+    },
+    {
+        "turbine_id": 18,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 45.6,
+        "maintenance_done": 0,
+        "Vibration": 5.06,
+        "Temp": 42.0
+    },
+    {
+        "turbine_id": 18,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 73.4,
+        "maintenance_done": 0,
+        "Vibration": 3.7,
+        "Temp": 19.3
+    },
+    {
+        "turbine_id": 18,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 24.4,
+        "maintenance_done": 0,
+        "Vibration": 0.95,
+        "Temp": 62.2
+    },
+    {
+        "turbine_id": 18,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 47.7,
+        "maintenance_done": 0,
+        "Vibration": 3.44,
+        "Temp": 41.3
+    },
+    {
+        "turbine_id": 18,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 40.0,
+        "maintenance_done": 0,
+        "Vibration": 5.02,
+        "Temp": 46.7
+    },
+    {
+        "turbine_id": 18,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 60.7,
+        "maintenance_done": 0,
+        "Vibration": 0.76,
+        "Temp": 32.1
+    },
+    {
+        "turbine_id": 19,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 41.0,
+        "maintenance_done": 0,
+        "Vibration": 2.63,
+        "Temp": 47.4
+    },
+    {
+        "turbine_id": 19,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 71.1,
+        "maintenance_done": 0,
+        "Vibration": 5.96,
+        "Temp": 20.7
+    },
+    {
+        "turbine_id": 19,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 48.6,
+        "maintenance_done": 0,
+        "Vibration": 3.61,
+        "Temp": 40.4
+    },
+    {
+        "turbine_id": 19,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.2,
+        "maintenance_done": 0,
+        "Vibration": 3.6,
+        "Temp": 65.7
+    },
+    {
+        "turbine_id": 19,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 71.7,
+        "maintenance_done": 0,
+        "Vibration": 3.46,
+        "Temp": 21.4
+    },
+    {
+        "turbine_id": 19,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 31.6,
+        "maintenance_done": 1,
+        "Vibration": 0.65,
+        "Temp": 56.4
+    },
+    {
+        "turbine_id": 19,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 28.4,
+        "maintenance_done": 0,
+        "Vibration": 0.49,
+        "Temp": 59.0
+    },
+    {
+        "turbine_id": 19,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 44.7,
+        "maintenance_done": 0,
+        "Vibration": 4.06,
+        "Temp": 43.4
+    },
+    {
+        "turbine_id": 19,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 17.7,
+        "maintenance_done": 0,
+        "Vibration": 2.4,
+        "Temp": 67.2
+    },
+    {
+        "turbine_id": 19,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 19.5,
+        "maintenance_done": 0,
+        "Vibration": 2.87,
+        "Temp": 65.1
+    },
+    {
+        "turbine_id": 20,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 43.5,
+        "maintenance_done": 0,
+        "Vibration": 2.95,
+        "Temp": 45.1
+    },
+    {
+        "turbine_id": 20,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 32.0,
+        "maintenance_done": 1,
+        "Vibration": 1.64,
+        "Temp": 55.6
+    },
+    {
+        "turbine_id": 20,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.9,
+        "maintenance_done": 0,
+        "Vibration": 3.55,
+        "Temp": 65.2
+    },
+    {
+        "turbine_id": 20,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 47.4,
+        "maintenance_done": 0,
+        "Vibration": 2.19,
+        "Temp": 42.3
+    },
+    {
+        "turbine_id": 20,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 43.9,
+        "maintenance_done": 0,
+        "Vibration": 3.92,
+        "Temp": 44.1
+    },
+    {
+        "turbine_id": 21,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.3,
+        "maintenance_done": 0,
+        "Vibration": 2.94,
+        "Temp": 66.2
+    },
+    {
+        "turbine_id": 21,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 41.8,
+        "maintenance_done": 1,
+        "Vibration": 4.04,
+        "Temp": 45.8
+    },
+    {
+        "turbine_id": 21,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 51.7,
+        "maintenance_done": 0,
+        "Vibration": 3.21,
+        "Temp": 38.1
+    },
+    {
+        "turbine_id": 21,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 37.4,
+        "maintenance_done": 0,
+        "Vibration": 0.61,
+        "Temp": 51.5
+    },
+    {
+        "turbine_id": 21,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 14.5,
+        "maintenance_done": 0,
+        "Vibration": 2.13,
+        "Temp": 69.7
+    },
+    {
+        "turbine_id": 21,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 35.4,
+        "maintenance_done": 0,
+        "Vibration": 2.25,
+        "Temp": 52.3
+    },
+    {
+        "turbine_id": 22,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 51.6,
+        "maintenance_done": 1,
+        "Vibration": 3.01,
+        "Temp": 38.3
+    },
+    {
+        "turbine_id": 22,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 30.9,
+        "maintenance_done": 1,
+        "Vibration": 0.6,
+        "Temp": 57.0
+    },
+    {
+        "turbine_id": 22,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 6.1,
+        "maintenance_done": 0,
+        "Vibration": 2.52,
+        "Temp": 76.3
+    },
+    {
+        "turbine_id": 22,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 47.4,
+        "maintenance_done": 0,
+        "Vibration": 2.96,
+        "Temp": 41.9
+    },
+    {
+        "turbine_id": 22,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 9.5,
+        "maintenance_done": 1,
+        "Vibration": 3.53,
+        "Temp": 73.3
+    },
+    {
+        "turbine_id": 22,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 34.8,
+        "maintenance_done": 0,
+        "Vibration": 3.87,
+        "Temp": 51.7
+    },
+    {
+        "turbine_id": 22,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 16.2,
+        "maintenance_done": 0,
+        "Vibration": 2.78,
+        "Temp": 68.1
+    },
+    {
+        "turbine_id": 22,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 69.5,
+        "maintenance_done": 0,
+        "Vibration": 3.14,
+        "Temp": 23.5
+    },
+    {
+        "turbine_id": 22,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 47.7,
+        "maintenance_done": 1,
+        "Vibration": 5.07,
+        "Temp": 40.2
+    },
+    {
+        "turbine_id": 22,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 79.3,
+        "maintenance_done": 0,
+        "Vibration": 3.6,
+        "Temp": 14.7
+    },
+    {
+        "turbine_id": 22,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 13.5,
+        "maintenance_done": 1,
+        "Vibration": 1.3,
+        "Temp": 71.0
+    },
+    {
+        "turbine_id": 22,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.3,
+        "maintenance_done": 1,
+        "Vibration": 5.83,
+        "Temp": 64.5
+    },
+    {
+        "turbine_id": 22,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 41.5,
+        "maintenance_done": 1,
+        "Vibration": 2.17,
+        "Temp": 47.3
+    },
+    {
+        "turbine_id": 23,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 35.2,
+        "maintenance_done": 0,
+        "Vibration": 5.7,
+        "Temp": 50.3
+    },
+    {
+        "turbine_id": 23,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 68.9,
+        "maintenance_done": 0,
+        "Vibration": 2.01,
+        "Temp": 24.7
+    },
+    {
+        "turbine_id": 23,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 45.9,
+        "maintenance_done": 0,
+        "Vibration": 5.02,
+        "Temp": 41.8
+    },
+    {
+        "turbine_id": 23,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 52.4,
+        "maintenance_done": 1,
+        "Vibration": 4.3,
+        "Temp": 36.8
+    },
+    {
+        "turbine_id": 23,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 41.0,
+        "maintenance_done": 0,
+        "Vibration": 5.17,
+        "Temp": 45.9
+    },
+    {
+        "turbine_id": 23,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 73.2,
+        "maintenance_done": 0,
+        "Vibration": 0.86,
+        "Temp": 21.8
+    },
+    {
+        "turbine_id": 24,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 68.9,
+        "maintenance_done": 0,
+        "Vibration": 2.71,
+        "Temp": 24.0
+    },
+    {
+        "turbine_id": 24,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 44.6,
+        "maintenance_done": 0,
+        "Vibration": 1.63,
+        "Temp": 45.1
+    },
+    {
+        "turbine_id": 24,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 17.7,
+        "maintenance_done": 0,
+        "Vibration": 1.14,
+        "Temp": 67.4
+    },
+    {
+        "turbine_id": 24,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 16.3,
+        "maintenance_done": 0,
+        "Vibration": 3.09,
+        "Temp": 67.6
+    },
+    {
+        "turbine_id": 24,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 51.9,
+        "maintenance_done": 0,
+        "Vibration": 2.23,
+        "Temp": 38.6
+    },
+    {
+        "turbine_id": 24,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 44.6,
+        "maintenance_done": 0,
+        "Vibration": 3.15,
+        "Temp": 44.0
+    },
+    {
+        "turbine_id": 24,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 79.5,
+        "maintenance_done": 1,
+        "Vibration": 1.16,
+        "Temp": 16.3
+    },
+    {
+        "turbine_id": 24,
+        "Date": "30/01/2026 18:01",
+        "Risque": "MOD\u00c9R\u00c9",
+        "RUL": 43.5,
+        "maintenance_done": 1,
+        "Vibration": 5.01,
+        "Temp": 43.8
+    },
+    {
+        "turbine_id": 25,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 69.3,
+        "maintenance_done": 0,
+        "Vibration": 1.72,
+        "Temp": 24.3
+    },
+    {
+        "turbine_id": 25,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 45.6,
+        "maintenance_done": 0,
+        "Vibration": 0.1,
+        "Temp": 45.0
+    },
+    {
+        "turbine_id": 25,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 57.2,
+        "maintenance_done": 0,
+        "Vibration": 5.41,
+        "Temp": 32.2
+    },
+    {
+        "turbine_id": 25,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 45.5,
+        "maintenance_done": 0,
+        "Vibration": 0.66,
+        "Temp": 44.8
+    },
+    {
+        "turbine_id": 26,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 7.0,
+        "maintenance_done": 0,
+        "Vibration": 4.28,
+        "Temp": 75.3
+    },
+    {
+        "turbine_id": 26,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 58.1,
+        "maintenance_done": 0,
+        "Vibration": 0.25,
+        "Temp": 34.5
+    },
+    {
+        "turbine_id": 26,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 16.5,
+        "maintenance_done": 1,
+        "Vibration": 2.57,
+        "Temp": 67.8
+    },
+    {
+        "turbine_id": 26,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 55.2,
+        "maintenance_done": 0,
+        "Vibration": 1.32,
+        "Temp": 36.5
+    },
+    {
+        "turbine_id": 26,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 33.0,
+        "maintenance_done": 0,
+        "Vibration": 5.18,
+        "Temp": 52.4
+    },
+    {
+        "turbine_id": 26,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 13.1,
+        "maintenance_done": 0,
+        "Vibration": 2.3,
+        "Temp": 70.9
+    },
+    {
+        "turbine_id": 26,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 42.9,
+        "maintenance_done": 0,
+        "Vibration": 2.05,
+        "Temp": 46.2
+    },
+    {
+        "turbine_id": 26,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 52.2,
+        "maintenance_done": 0,
+        "Vibration": 5.3,
+        "Temp": 36.3
+    },
+    {
+        "turbine_id": 26,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 17.2,
+        "maintenance_done": 0,
+        "Vibration": 1.45,
+        "Temp": 67.7
+    },
+    {
+        "turbine_id": 26,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 41.9,
+        "maintenance_done": 0,
+        "Vibration": 3.12,
+        "Temp": 46.3
+    },
+    {
+        "turbine_id": 26,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 75.6,
+        "maintenance_done": 0,
+        "Vibration": 3.66,
+        "Temp": 18.4
+    },
+    {
+        "turbine_id": 27,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 25.0,
+        "maintenance_done": 0,
+        "Vibration": 3.66,
+        "Temp": 60.0
+    },
+    {
+        "turbine_id": 27,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 46.9,
+        "maintenance_done": 0,
+        "Vibration": 2.87,
+        "Temp": 42.3
+    },
+    {
+        "turbine_id": 27,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 32.8,
+        "maintenance_done": 0,
+        "Vibration": 5.41,
+        "Temp": 52.5
+    },
+    {
+        "turbine_id": 27,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 50.2,
+        "maintenance_done": 0,
+        "Vibration": 3.67,
+        "Temp": 39.1
+    },
+    {
+        "turbine_id": 27,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 49.9,
+        "maintenance_done": 0,
+        "Vibration": 5.75,
+        "Temp": 38.2
+    },
+    {
+        "turbine_id": 27,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 51.7,
+        "maintenance_done": 0,
+        "Vibration": 2.73,
+        "Temp": 38.4
+    },
+    {
+        "turbine_id": 27,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 59.1,
+        "maintenance_done": 0,
+        "Vibration": 2.62,
+        "Temp": 32.3
+    },
+    {
+        "turbine_id": 27,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 42.4,
+        "maintenance_done": 0,
+        "Vibration": 0.93,
+        "Temp": 47.4
+    },
+    {
+        "turbine_id": 27,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 38.4,
+        "maintenance_done": 0,
+        "Vibration": 5.14,
+        "Temp": 48.1
+    },
+    {
+        "turbine_id": 27,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 50.2,
+        "maintenance_done": 0,
+        "Vibration": 3.44,
+        "Temp": 39.2
+    },
+    {
+        "turbine_id": 28,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 14.2,
+        "maintenance_done": 1,
+        "Vibration": 4.25,
+        "Temp": 69.0
+    },
+    {
+        "turbine_id": 28,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 10.1,
+        "maintenance_done": 0,
+        "Vibration": 3.03,
+        "Temp": 72.7
+    },
+    {
+        "turbine_id": 28,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 42.1,
+        "maintenance_done": 0,
+        "Vibration": 0.0,
+        "Temp": 48.0
+    },
+    {
+        "turbine_id": 28,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 7.7,
+        "maintenance_done": 0,
+        "Vibration": 1.75,
+        "Temp": 75.3
+    },
+    {
+        "turbine_id": 28,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 30.8,
+        "maintenance_done": 0,
+        "Vibration": 4.42,
+        "Temp": 54.7
+    },
+    {
+        "turbine_id": 29,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 33.0,
+        "maintenance_done": 0,
+        "Vibration": 5.13,
+        "Temp": 52.4
+    },
+    {
+        "turbine_id": 29,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 32.8,
+        "maintenance_done": 0,
+        "Vibration": 0.08,
+        "Temp": 55.7
+    },
+    {
+        "turbine_id": 29,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 64.1,
+        "maintenance_done": 0,
+        "Vibration": 0.57,
+        "Temp": 29.3
+    },
+    {
+        "turbine_id": 29,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 69.4,
+        "maintenance_done": 0,
+        "Vibration": 3.92,
+        "Temp": 23.0
+    },
+    {
+        "turbine_id": 29,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 52.8,
+        "maintenance_done": 0,
+        "Vibration": 3.5,
+        "Temp": 37.1
+    },
+    {
+        "turbine_id": 29,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 60.1,
+        "maintenance_done": 0,
+        "Vibration": 5.66,
+        "Temp": 29.7
+    },
+    {
+        "turbine_id": 30,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 15.2,
+        "maintenance_done": 0,
+        "Vibration": 3.1,
+        "Temp": 68.6
+    },
+    {
+        "turbine_id": 30,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 13.4,
+        "maintenance_done": 1,
+        "Vibration": 2.48,
+        "Temp": 70.5
+    },
+    {
+        "turbine_id": 30,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 28.2,
+        "maintenance_done": 0,
+        "Vibration": 3.2,
+        "Temp": 57.7
+    },
+    {
+        "turbine_id": 30,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 28.9,
+        "maintenance_done": 0,
+        "Vibration": 5.11,
+        "Temp": 55.9
+    },
+    {
+        "turbine_id": 30,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 41.8,
+        "maintenance_done": 0,
+        "Vibration": 0.86,
+        "Temp": 47.9
+    },
+    {
+        "turbine_id": 30,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 42.7,
+        "maintenance_done": 0,
+        "Vibration": 3.09,
+        "Temp": 45.7
+    },
+    {
+        "turbine_id": 31,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 30.1,
+        "maintenance_done": 0,
+        "Vibration": 2.47,
+        "Temp": 56.6
+    },
+    {
+        "turbine_id": 31,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 22.6,
+        "maintenance_done": 1,
+        "Vibration": 5.04,
+        "Temp": 61.4
+    },
+    {
+        "turbine_id": 31,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 69.9,
+        "maintenance_done": 0,
+        "Vibration": 2.59,
+        "Temp": 23.4
+    },
+    {
+        "turbine_id": 31,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 51.1,
+        "maintenance_done": 0,
+        "Vibration": 2.46,
+        "Temp": 39.1
+    },
+    {
+        "turbine_id": 31,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 42.7,
+        "maintenance_done": 0,
+        "Vibration": 2.77,
+        "Temp": 45.9
+    },
+    {
+        "turbine_id": 31,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 35.6,
+        "maintenance_done": 0,
+        "Vibration": 4.15,
+        "Temp": 50.9
+    },
+    {
+        "turbine_id": 32,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 19.6,
+        "maintenance_done": 0,
+        "Vibration": 2.53,
+        "Temp": 65.3
+    },
+    {
+        "turbine_id": 32,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 41.4,
+        "maintenance_done": 0,
+        "Vibration": 3.08,
+        "Temp": 46.8
+    },
+    {
+        "turbine_id": 32,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 53.3,
+        "maintenance_done": 0,
+        "Vibration": 0.81,
+        "Temp": 38.3
+    },
+    {
+        "turbine_id": 32,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 38.9,
+        "maintenance_done": 0,
+        "Vibration": 0.28,
+        "Temp": 50.5
+    },
+    {
+        "turbine_id": 32,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 18.1,
+        "maintenance_done": 0,
+        "Vibration": 3.63,
+        "Temp": 66.0
+    },
+    {
+        "turbine_id": 32,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 17.8,
+        "maintenance_done": 1,
+        "Vibration": 3.45,
+        "Temp": 66.3
+    },
+    {
+        "turbine_id": 32,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 19.1,
+        "maintenance_done": 0,
+        "Vibration": 1.64,
+        "Temp": 66.1
+    },
+    {
+        "turbine_id": 33,
+        "Date": "30/01/2026 18:01",
+        "Risque": "CRITIQUE",
+        "RUL": 8.1,
+        "maintenance_done": 0,
+        "Vibration": 3.66,
+        "Temp": 74.6
+    },
+    {
+        "turbine_id": 33,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 31.2,
+        "maintenance_done": 0,
+        "Vibration": 0.87,
+        "Temp": 56.6
+    },
+    {
+        "turbine_id": 33,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 70.3,
+        "maintenance_done": 0,
+        "Vibration": 2.44,
+        "Temp": 23.1
+    },
+    {
+        "turbine_id": 34,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 55.8,
+        "maintenance_done": 1,
+        "Vibration": 0.0,
+        "Temp": 36.7
+    },
+    {
+        "turbine_id": 34,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 69.1,
+        "maintenance_done": 1,
+        "Vibration": 2.51,
+        "Temp": 24.0
+    },
+    {
+        "turbine_id": 34,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 73.5,
+        "maintenance_done": 0,
+        "Vibration": 0.0,
+        "Temp": 21.8
+    },
+    {
+        "turbine_id": 34,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 53.0,
+        "maintenance_done": 0,
+        "Vibration": 0.47,
+        "Temp": 38.7
+    },
+    {
+        "turbine_id": 34,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 68.3,
+        "maintenance_done": 0,
+        "Vibration": 4.76,
+        "Temp": 23.6
+    },
+    {
+        "turbine_id": 34,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 48.2,
+        "maintenance_done": 0,
+        "Vibration": 0.61,
+        "Temp": 42.7
+    },
+    {
+        "turbine_id": 34,
+        "Date": "30/01/2026 18:01",
+        "Risque": "\u00c9LEV\u00c9",
+        "RUL": 37.1,
+        "maintenance_done": 0,
+        "Vibration": 5.48,
+        "Temp": 48.8
+    },
+    {
+        "turbine_id": 35,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 46.8,
+        "maintenance_done": 0,
+        "Vibration": 3.55,
+        "Temp": 42.0
+    },
+    {
+        "turbine_id": 35,
+        "Date": "30/01/2026 18:01",
+        "Risque": "FAIBLE",
+        "RUL": 47.2,
+        "maintenance_done": 1,
+        "Vibration": 2.73,
+        "Temp": 42.2
     }
 ]
