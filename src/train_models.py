@@ -6,7 +6,7 @@ from langsmith import traceable
 
 @traceable
 def train():
-    DATA_PATH = "../data/energiTech_par_turbine.csv"
+    DATA_PATH = "data/energiTech_par_turbine.csv"
     MODEL_DIR = "models"
     os.makedirs(MODEL_DIR, exist_ok=True)
 

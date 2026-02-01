@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 import json
+import requests
 import plotly.express as px
 from langsmith import traceable
 
@@ -30,6 +31,35 @@ def load_data():
 def save_data(df):
     # On repasse en format JSON standard pour la sauvegarde
     df.to_json(PATH_RESULTS, orient="records", indent=4)
+
+
+# =====================
+# LOGIN
+# =====================
+
+if "token" not in st.session_state:
+    st.session_state.token = None
+
+if st.session_state.token is None:
+
+    st.subheader("🔐 Connexion")
+
+    user = st.text_input("Username")
+    pwd = st.text_input("Password", type="password")
+
+    if st.button("Login"):
+        r = requests.post(
+            "http://localhost:8000/login", json={"username": user, "password": pwd}
+        )
+
+        if r.status_code == 200:
+            st.session_state.token = r.json()["access_token"]
+            st.success("Connexion réussie")
+            st.rerun()
+        else:
+            st.error("Identifiants invalides")
+
+    st.stop()
 
 st.title("⚡ EnergiTech - Cockpit Opérationnel")
 
