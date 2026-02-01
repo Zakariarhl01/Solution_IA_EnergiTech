@@ -68,10 +68,10 @@ df = load_data()
 if not df.empty:
     # On trie pour avoir les plus critiques en haut du tableau
     df = df.sort_values("Risque", ascending=False)
-    
+
     # KPI basés sur les éoliennes non maintenues
     a_traiter = df[df['maintenance_done'] == 0]
-    
+
     m1, m2, m3, m4 = st.columns(4)
     m1.metric("🚨 CRITIQUE", len(a_traiter[a_traiter['Risque'] == "CRITIQUE"]))
     m2.metric("🟠 ÉLEVÉ", len(a_traiter[a_traiter['Risque'] == "ÉLEVÉ"]))
@@ -91,14 +91,14 @@ if not df.empty:
 
     # Tableau avec style conditionnel (Grisé transparent si maintenance_done == 1)
     st.write("### 🛠️ Registre complet du parc")
-    
+
     df_vue = df.copy()
     df_vue["Valider"] = df_vue["maintenance_done"] == 1
 
     def style_lignes(row):
         if row['maintenance_done'] == 1:
             return ['background-color: rgba(200, 200, 200, 0.2); color: rgba(100, 100, 100, 0.5); text-decoration: line-through;'] * len(row)
-        
+
         r = row['Risque']
         if r == "CRITIQUE":
             return ['background-color: rgba(255, 75, 75, 0.3); font-weight: bold'] * len(row)
@@ -128,3 +128,11 @@ if not df.empty:
         st.rerun()
 else:
     st.warning("Aucune donnée disponible.")
+
+
+# =====================
+# LOGOUT
+# =====================
+if st.sidebar.button("Se déconnecter"):
+    st.session_state.clear()
+    st.rerun()
